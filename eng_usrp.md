@@ -22,6 +22,9 @@ Environment setup:
 `gnuradio-companion`
 `pybombs run gnuradio-companion`
 
+
+[USRP Bandwidth: analog, processing, network](https://kb.ettus.com/About_USRP_Bandwidths_and_Sampling_Rates)
+
 Common commands:
 
 `cd /home/kim/uhd/host/build/examples`

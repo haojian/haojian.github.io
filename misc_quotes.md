@@ -2,6 +2,12 @@ Quotes
 ==============
 
 ```
+So much technology now is coming into the culinary world, where cooks maybe not have to be as talented or work as hard becuase technologies allows them to be better cooks than they normally might be. 
+David Chu, The mind of Chef S1:E3 Memory. 17:07
+```
+
+
+```
 你拼了命地走捷径想要爬出那扇小窗子，却没有发现那扇可以堂堂正正通向地上的大门已经悄悄关上了.
 ```
 
