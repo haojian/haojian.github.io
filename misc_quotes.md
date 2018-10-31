@@ -2,7 +2,15 @@ Quotes
 ==============
 
 ```
+To compensate for my lack of dexterity, speed, and technique, I think about food constantly. In fact, I’m much stronger at thinking about food than I am at cooking it. 
+
+[David Chang’s Unified Theory of Deliciousness](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/), WIRED
+```
+
+
+```
 So much technology now is coming into the culinary world, where cooks maybe not have to be as talented or work as hard becuase technologies allows them to be better cooks than they normally might be. 
+
 David Chu, The mind of a Chef S1:E3 Memory. 17:07
 ```
 
