@@ -40,6 +40,7 @@ HCI
 - [Meta research](hci_metaresearch.md)
 - [Misc](hci_misc.md)
 - [Latex](hci_latex.md)
+- [Privacy](hci_privacy.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
