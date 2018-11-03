@@ -7,4 +7,5 @@
 
 
 [NISTIR 8062: Privacy Risk Management for Federal Information Systems](https://csrc.nist.gov/csrc/media/publications/nistir/8062/draft/documents/nistir_8062_draft.pdf)
-    - The appendix is informative.
+    - The appendix of the draft version is informative.
+    - Check appendix D
