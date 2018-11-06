@@ -20,10 +20,16 @@ In progress and to do list:
 
 
 
+Nov. 6, 2018
 
-
+* [Geographic profiling](https://www.youtube.com/watch?v=DQjYs-D729E)
+	- two assumptions: the criminal does not commit crimes in a "buffer zone" close to his home, and he does not travel too far to find a new victim.
+	- distance decay. crimes will decrease in frequency the farther away the offender travels from their home. Close to the home but not in the buffer zone. 
+	- map mental representation.
 
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
+
+
 
 
 Oct. 31, 2018
