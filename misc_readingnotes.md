@@ -20,6 +20,12 @@ In progress and to do list:
 
 
 
+Nov. 7, 2018
+
+* [Do you think turning on private browsing or incognito mode will make you anonymous? Not really!](https://www.nothingprivate.ml/)
+
+
+
 Nov. 6, 2018
 
 * [Geographic profiling](https://www.youtube.com/watch?v=DQjYs-D729E)
@@ -33,8 +39,6 @@ Nov. 6, 2018
 
 
 Oct. 31, 2018
-
-  
 
 * [“GOOGLE WAS NOT A NORMAL PLACE”: BRIN, PAGE, AND MAYER ON THE ACCIDENTAL BIRTH OF THE COMPANY THAT CHANGED EVERYTHING](https://www.vanityfair.com/news/2018/07/valley-of-genius-excerpt-google)
 	- “Larry came up with the idea of doing a random walk, but Larry didn’t know how to compute it. Sergey looked at it and said, “Oh, that looks like computing the eigenvector of a matrix!” ”     
