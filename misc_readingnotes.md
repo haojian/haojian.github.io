@@ -24,8 +24,6 @@ Nov. 7, 2018
 
 * [Do you think turning on private browsing or incognito mode will make you anonymous? Not really!](https://www.nothingprivate.ml/)
 
-
-
 Nov. 6, 2018
 
 * [Geographic profiling](https://www.youtube.com/watch?v=DQjYs-D729E)

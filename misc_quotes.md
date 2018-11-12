@@ -1,6 +1,14 @@
 Quotes
 ==============
 
+
+```
+“黎曼和庞加莱是数学家中的 菩萨。... 而我们不管多么努力也无法成为罗汉。... 人人都知道菩萨，但没人知道谁是罗汉。因此我们不该在出名上浪费太多精力。
+- 陈省身教授 [一生只做一件事](http://cmsold.cms.org.cn/zl/chen/20110211-38.htm) 
+```
+
+
+
 ```
 To compensate for my lack of dexterity, speed, and technique, I think about food constantly. In fact, I’m much stronger at thinking about food than I am at cooking it. 
 
