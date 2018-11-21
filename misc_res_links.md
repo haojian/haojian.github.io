@@ -36,3 +36,4 @@ Links
 ###Life
 
 - [GoogleEmailCopy](http://www.goodemailcopy.com/)
+- [Networking Emails Proven email templates to help you build your network and accelerate your career.](https://networkingemails.com/)
