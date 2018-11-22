@@ -20,6 +20,10 @@ In progress and to do list:
 
 
 
+Nov. 22, 2018
+
+* [Dinner for few](https://vimeo.com/288759859)
+
 Nov. 7, 2018
 
 * [Do you think turning on private browsing or incognito mode will make you anonymous? Not really!](https://www.nothingprivate.ml/)
