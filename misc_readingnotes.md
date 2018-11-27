@@ -19,6 +19,9 @@ In progress and to do list:
 - Sam Harris
 
 
+Nov. 27, 2018
+
+* [The path integral formulation of your life](https://img.memecdn.com/Formula-of-your-life_o_5286.jpg)
 
 Nov. 22, 2018
 
