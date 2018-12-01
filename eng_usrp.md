@@ -5,6 +5,7 @@ Environment setup:
 1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).
     - to reinstall gnu radio: `pybombs remove uhd`  
     - sometimes an "assertion error" may happen. that's because of the incompatbility of different yaml library versions. reinstall the environment using requirements.txt.
+    - default directory: `~/prefix/default/share/gnuradio/examples/uhd/usrp_spectrum_sense.py`
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
@@ -46,7 +47,11 @@ ping 192.168.10.31
 
 ```
 
+Nov. 25 command:
+1. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2444e6 --rate=10e6    --ref=external`
 
+Oct. 1 night command:
+1. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e6    --ref=external`
 
 0812 command:
 1. `./rx_samples_to_file --args="addr0=192.168.10.32" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="an1noantenuate.dat" --gain 0 --duration 3`
