@@ -2,6 +2,43 @@ Quotes
 ==============
 
 ```
+People who are really serious about software should make their own hardware. 
+-Alan Kay
+```
+
+```
+人类经年累月积累下来的最行之有效的heuristics: 
+根据有限的知识积累起来的，对复杂事情的一套简单处理方法。
+```
+
+
+```
+“黎曼和庞加莱是数学家中的 菩萨。... 而我们不管多么努力也只能成为罗汉。... 人人都知道菩萨，但没人知道谁是罗汉。因此我们不该在出名上浪费太多精力。
+- 陈省身教授 [一生只做一件事](http://cmsold.cms.org.cn/zl/chen/20110211-38.htm) 
+```
+
+
+
+```
+To compensate for my lack of dexterity, speed, and technique, I think about food constantly. In fact, I’m much stronger at thinking about food than I am at cooking it. 
+
+[David Chang’s Unified Theory of Deliciousness](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/), WIRED
+```
+
+
+```
+So much technology now is coming into the culinary world, where cooks maybe not have to be as talented or work as hard becuase technologies allows them to be better cooks than they normally might be. 
+
+David Chang, The mind of a Chef S1:E3 Memory. 17:07
+```
+
+
+```
+你拼了命地走捷径想要爬出那扇小窗子，却没有发现那扇可以堂堂正正通向地上的大门已经悄悄关上了.
+```
+
+
+```
 十年寒窗无人问 一举成名天下知
 琵琶记
 ```

@@ -14,3 +14,7 @@
 ## Figures
 
 - [Python plot layout](https://plot.ly/matplotlib/subplots/)
+
+## Research statement
+
+- [Writing a research statement by Michael Ernst (UW-CSE)](https://homes.cs.washington.edu/~mernst/advice/research-statement.html)

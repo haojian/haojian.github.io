@@ -1,6 +1,8 @@
 python
 ===========
 
+[panda data frame](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)
+
 ## tricks
 
 - [Multi-level defaultdict with variable depth?](http://stackoverflow.com/questions/5369723/multi-level-defaultdict-with-variable-depth)

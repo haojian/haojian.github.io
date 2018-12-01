@@ -19,8 +19,46 @@ In progress and to do list:
 - Sam Harris
 
 
+Nov. 27, 2018
+
+* [The path integral formulation of your life](https://img.memecdn.com/Formula-of-your-life_o_5286.jpg)
+
+Nov. 22, 2018
+
+* [Dinner for few](https://vimeo.com/288759859)
+
+Nov. 7, 2018
+
+* [Do you think turning on private browsing or incognito mode will make you anonymous? Not really!](https://www.nothingprivate.ml/)
+
+Nov. 6, 2018
+
+* [Geographic profiling](https://www.youtube.com/watch?v=DQjYs-D729E)
+	- two assumptions: the criminal does not commit crimes in a "buffer zone" close to his home, and he does not travel too far to find a new victim.
+	- distance decay. crimes will decrease in frequency the farther away the offender travels from their home. Close to the home but not in the buffer zone. 
+	- map mental representation.
+
+* [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
+
+
+
+
+Oct. 31, 2018
+
+* [“GOOGLE WAS NOT A NORMAL PLACE”: BRIN, PAGE, AND MAYER ON THE ACCIDENTAL BIRTH OF THE COMPANY THAT CHANGED EVERYTHING](https://www.vanityfair.com/news/2018/07/valley-of-genius-excerpt-google)
+	- “Larry came up with the idea of doing a random walk, but Larry didn’t know how to compute it. Sergey looked at it and said, “Oh, that looks like computing the eigenvector of a matrix!” ”     
+	- “We got the search engine to a certain point and then Larry built this little interface. ”  
+
+
+Sept. 27, 2018
 
 * [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+	- [the Chinese clarification](https://10mileredlotusmeanwine.wordpress.com/2007/09/05/%E6%8E%98%E5%9C%B0%E4%B8%89%E5%B0%BA%E6%8C%96%E5%87%BA%E6%AF%81%E4%B9%A6%E4%B8%8D%E5%80%A6%E7%9A%84franz-kuhn/)
+
+* [Unpacking “Privacy” for a Networked World](./resources/papers/p129-palen.pdf)
+
+* [Security, privacy and trust in Internet of Things: The road ahead](http://tarjomefa.com/wp-content/uploads/2016/07/5009-English.pdf)
+
 
 Aug. 4, 2018
 
