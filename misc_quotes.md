@@ -1,6 +1,12 @@
 Quotes
 ==============
 
+
+```
+“你觉得将来有一天watson会用人类的方式来思考回答问题，或者变成人类吗？”
+教授的回答缓慢而深刻，“它什么要像人类吗？它有用就好了？”
+```
+
 ```
 People who are really serious about software should make their own hardware. 
 -Alan Kay
