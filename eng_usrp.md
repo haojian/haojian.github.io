@@ -5,6 +5,7 @@ Environment setup:
 1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).
     - to reinstall gnu radio: `pybombs remove uhd`  
     - sometimes an "assertion error" may happen. that's because of the incompatbility of different yaml library versions. reinstall the environment using requirements.txt.
+    - default directory: `~/prefix/default/share/gnuradio/examples/uhd/usrp_spectrum_sense.py`
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
@@ -31,6 +32,7 @@ Common commands:
 1. `uhd_find_devices` find connected USRP devices.
 2. `uhd_usrp_probe --args addr=192.168.10.32` verify if the USRP works.
 3. `sudo ./rx_samples_to_file --args="addr0=192.168.10.31" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/t_1min_1e5.dat" --duration 60`
+    -  `./rx_samples_to_file --args="addr0=192.168.10.32" --type=short --ant=TX/RX --freq=2470e6 --rate=20e6 --file="2470-rotation-emptybottle.dat" --duration 5`
 4. `sudo ./rx_multi_samples --args="addr0=192.168.10.31" --subdev "A:0 B:0" --channels "0,1"`
 5. `sudo ./rx_samples_to_file --args="addr0=192.168.10.31" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/t_1min_1e5.dat" --duration 60 --ref=external`
 6. Two antenna on the same usrp: `./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --ant "TX/RX, RX2" --subdev "A:0 B:0" --channels "0,1"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30 `
@@ -49,7 +51,11 @@ ping 192.168.10.31
 
 ```
 
+Nov. 25 command:
+1. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2444e6 --rate=10e6    --ref=external`
 
+Oct. 1 night command:
+1. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e6    --ref=external`
 
 0812 command:
 1. `./rx_samples_to_file --args="addr0=192.168.10.32" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="an1noantenuate.dat" --gain 0 --duration 3`
