@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
+
+Dec. 8, 2018
+
+* [Real science. Now in real time.](https://cseweb.ucsd.edu/~jmcauley/)
+
 Nov. 27, 2018
 
 * [The path integral formulation of your life](https://img.memecdn.com/Formula-of-your-life_o_5286.jpg)
