@@ -1,3 +1,8 @@
+aha moments
+=================
+
+- [einstein shadown for 3d fabrication](https://youtu.be/W-yWeQxnnDA?t=60)
+
 Video Collection
 =================
 

@@ -1,6 +1,11 @@
 Quotes
 ==============
 
+```
+We hold these truths to be self-evident. 
+- Franklin
+```
+
 
 ```
 “你觉得将来有一天watson会用人类的方式来思考回答问题，或者变成人类吗？”
