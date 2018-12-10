@@ -6,6 +6,16 @@ Environment setup:
     - to reinstall gnu radio: `pybombs remove uhd`  
     - sometimes an "assertion error" may happen. that's because of the incompatbility of different yaml library versions. reinstall the environment using requirements.txt.
     - default directory: `~/prefix/default/share/gnuradio/examples/uhd/usrp_spectrum_sense.py`
+    - gnu radio installation issues:
+        - qt errors => reinstall qt
+        - boost errors = > i use ubuntu 18 which come with boost 1.65
+        - for each re-installation, update the pybombs from github and manually clean and refetch
+            ```
+            pip install git+https://github.com/gnuradio/pybombs.git
+            sudo rm /usr/local/src/gnuradio -rf
+            sudo pybombs -v fetch gnuradio
+            sudo pybombs install gr-gsm
+            ```
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
