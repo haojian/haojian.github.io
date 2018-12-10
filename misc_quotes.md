@@ -2,6 +2,12 @@ Quotes
 ==============
 
 ```
+The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed. 
+- Douglas Engelbart
+```
+
+
+```
 We hold these truths to be self-evident. 
 - Franklin
 ```
