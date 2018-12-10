@@ -23,6 +23,7 @@ In progress and to do list:
 Dec. 10, 2018
 
 * [Design at Large- Kentaro Toyama, Geek Heresy: What If Good Design Isn't Enough?](https://www.youtube.com/watch?v=7HwDiqo4JYQ)
+	- very nice talk regarding technology's law of amplification.
 
 Dec. 8, 2018
 
