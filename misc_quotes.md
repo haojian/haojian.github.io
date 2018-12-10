@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+Will the continual stream of messages from wearable devices prove to be irresistible, diverting me from my work, or will they amplify my abilities? ... It all depends upon whether we use them to focus and augment our activities or to distract. It is up to us ... to decide which it is to be.
+
+- Don norman, MIT Tech Review, 2013
+```
+
+
+```
 The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed. 
 - Douglas Engelbart
 ```
