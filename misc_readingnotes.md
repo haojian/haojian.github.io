@@ -17,7 +17,17 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 - [the language instinct](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 - Sam Harris
+- [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
+
+Dec. 10, 2018
+
+* [Design at Large- Kentaro Toyama, Geek Heresy: What If Good Design Isn't Enough?](https://www.youtube.com/watch?v=7HwDiqo4JYQ)
+	- very nice talk regarding technology's law of amplification.
+
+Dec. 8, 2018
+
+* [Real science. Now in real time.](https://cseweb.ucsd.edu/~jmcauley/)
 
 Nov. 27, 2018
 

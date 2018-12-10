@@ -2,6 +2,30 @@ Quotes
 ==============
 
 ```
+Will the continual stream of messages from wearable devices prove to be irresistible, diverting me from my work, or will they amplify my abilities? ... It all depends upon whether we use them to focus and augment our activities or to distract. It is up to us ... to decide which it is to be.
+
+- Don norman, MIT Tech Review, 2013
+```
+
+
+```
+The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed. 
+- Douglas Engelbart
+```
+
+
+```
+We hold these truths to be self-evident. 
+- Franklin
+```
+
+
+```
+“你觉得将来有一天watson会用人类的方式来思考回答问题，或者变成人类吗？”
+教授的回答缓慢而深刻，“它什么要像人类吗？它有用就好了？”
+```
+
+```
 People who are really serious about software should make their own hardware. 
 -Alan Kay
 ```
