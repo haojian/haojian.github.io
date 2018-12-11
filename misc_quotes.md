@@ -2,6 +2,17 @@ Quotes
 ==============
 
 ```
+If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles.
+- Engelbart
+```
+
+```
+The complexity of a lot of the problems [in the world] and the means for solving them are just getting to be too much. The time available for solving a lot of the problems is getting shorter and shorter. So the urgency goes up… The complexity/urgency factor had transcended what humans can cope with. I suddenly flashed that if you could do something to improve human capability to cope with that, then you’d really contribute something basic. 
+- Engelbart’s Crusade
+```
+
+
+```
 Will the continual stream of messages from wearable devices prove to be irresistible, diverting me from my work, or will they amplify my abilities? ... It all depends upon whether we use them to focus and augment our activities or to distract. It is up to us ... to decide which it is to be.
 
 - Don norman, MIT Tech Review, 2013

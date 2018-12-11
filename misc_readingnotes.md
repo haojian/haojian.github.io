@@ -20,10 +20,15 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Dec. 11, 2018
+
+* [The Seductive Diversion of ‘Solving’ Bias in Artificial Intelligence](https://medium.com/s/story/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53)
+
 Dec. 10, 2018
 
 * [Design at Large- Kentaro Toyama, Geek Heresy: What If Good Design Isn't Enough?](https://www.youtube.com/watch?v=7HwDiqo4JYQ)
 	- very nice talk regarding technology's law of amplification.
+	- like the water pumping example at 23 min.
 
 Dec. 8, 2018
 
