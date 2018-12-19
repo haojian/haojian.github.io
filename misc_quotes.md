@@ -2,6 +2,16 @@ Quotes
 ==============
 
 ```
+人是为了活着本身而活着，而不是为了活着以外的任何事物所活着. 
+-余华
+```
+
+```
+A good paper is saying what you did and showing you did what you say. 
+```
+
+
+```
 If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles.
 - Engelbart
 ```

@@ -2,10 +2,15 @@
 
 ----
 
+Dec. 18, 2018
+
+Knowledge, PhD, Research & Innovation - From Niki in the P&T class.
+
+
+
 July. 17, 2018
 
-
-My Ph.D. weekend life.
+The Discrimination Chain in Academia.
 
 <img src="photos/diagrams/purity.png" width = "400px"/>
 
