@@ -12,3 +12,13 @@
 
 
 [NIST 800-53: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/CSRC/media/Publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf)
+
+
+
+####### Stories
+
+
+- Google noted that visitors to its Ads Preference Manager are far more likely to edit their interest settings and remain opted in rather than to opt out. 
+- In the Commission’s case against Google, the complaint
+alleged that Google used the information of consumers who signed up for Gmail to populate a new social network, Google Buzz. The creation of that social network in some cases revealed previously private information about Gmail users’ most frequent email contacts. 
+- The Commission’s complaint against Facebook alleged that Facebook’s sharing of users’ personal information beyond their privacy settings was harmful.

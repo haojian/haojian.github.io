@@ -1,6 +1,16 @@
 Quotes
 ==============
 
+
+```
+Politics is solving today's problems with yesterday's tools. 
+
+Our "age of anxiety" is, in great part, the result of trying to do today's job with yesterday's tools. 
+
+- [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
+```
+
+
 ```
 人是为了活着本身而活着，而不是为了活着以外的任何事物所活着. 
 -余华

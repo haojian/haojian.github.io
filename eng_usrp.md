@@ -136,6 +136,23 @@ zxc
 
 one usrp, two ports
 
-
-
  ./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --subdev "A:0 B:0" --channels "0,1"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30
+
+
+
+
+ ##### LimeSDR
+
+```
+#make sure that STREAM is one of the available connections
+LimeUtil --info
+
+#now run LimeUtil with --find to locate devices on the system
+LimeUtil --find
+
+ #make sure that lime is one of the available factories 
+SoapySDRUtil --info
+
+#now run SoapySDRUtil with --find to locate devices on the system
+SoapySDRUtil --find="driver=lime"
+```
