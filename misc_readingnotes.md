@@ -20,6 +20,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+
+Dec. 29, 2018
+
+* [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
+	- liquid democracy, participatory budgeting, 
+
 Dec. 15, 2018
 
 * [It’s time for a Bill of Data Rights](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)
