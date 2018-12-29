@@ -24,7 +24,7 @@ In progress and to do list:
 Dec. 29, 2018
 
 * [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
-	- liquid democracy, participatory budgeting, 
+	- liquid democracy, participatory budgeting, virtual democracy.
 
 Dec. 15, 2018
 
