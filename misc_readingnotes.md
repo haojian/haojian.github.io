@@ -27,7 +27,7 @@ Dec. 29, 2018
 	- liquid democracy, participatory budgeting, virtual democracy.
 
 * [What "Ancient" Chinese Sounded Like - and how we know](https://www.youtube.com/watch?v=ME8wzyR6pO8)
-	- 反切
+	- 反切, 切韵
 
 Dec. 15, 2018
 
