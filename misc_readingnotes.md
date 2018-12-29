@@ -26,6 +26,9 @@ Dec. 29, 2018
 * [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
 	- liquid democracy, participatory budgeting, virtual democracy.
 
+* [What "Ancient" Chinese Sounded Like - and how we know](https://www.youtube.com/watch?v=ME8wzyR6pO8)
+	- 反切
+
 Dec. 15, 2018
 
 * [It’s time for a Bill of Data Rights](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)
