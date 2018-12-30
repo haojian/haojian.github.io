@@ -21,6 +21,10 @@ In progress and to do list:
 
 
 
+Dec. 30, 2018
+
+* [How DropBox Started As A Minimal Viable Product](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/)
+
 Dec. 29, 2018
 
 * [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
