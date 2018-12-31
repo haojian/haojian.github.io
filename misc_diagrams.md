@@ -2,10 +2,16 @@
 
 ----
 
+Dec. 31, 2018
+
+<img src="photos/diagrams/wordsandthoughts.JPG" width = "400px"/>
+
+
 Dec. 18, 2018
 
 Knowledge, PhD, Research & Innovation - From Niki in the P&T class.
 
+<img src="photos/diagrams/niki_researchinnovation.JPG" width = "400px"/>
 
 
 July. 17, 2018
