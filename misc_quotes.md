@@ -3,6 +3,13 @@ Quotes
 
 
 ```
+“All of humanity's problems stem from man's inability to sit quietly in a room alone.”
+- Blaise Pascal, 1654
+```
+
+
+
+```
 Politics is solving today's problems with yesterday's tools. 
 
 Our "age of anxiety" is, in great part, the result of trying to do today's job with yesterday's tools. 
