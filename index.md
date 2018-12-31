@@ -76,6 +76,7 @@ Misc
 ------
 - [Reading notes](misc_readingnotes.md)
 - [Diagrams](misc_diagrams.md)
+- [Dualism](misc_dualism.md)
 - [Papers](misc_paperreading.md)
 - [Links worth my time](misc_linksworthmytime.md)
 - [Getting out of the PhD](misc_phd.md)
