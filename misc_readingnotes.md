@@ -20,6 +20,11 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Jan. 2, 2019
+
+* [Digital Market Manipulation](http://www.gwlr.org/wp-content/uploads/2014/10/Calo_82_41.pdf)
+	- a very thoughtful reading on the ethics of information.
+
 
 Dec. 30, 2018
 
