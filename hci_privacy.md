@@ -1,4 +1,13 @@
-### Privacy
+### Privacy 101
+
+- Privacy v.s. Security
+    - A user's bank account is hacked, the hacker takes the user's money. 
+    - A user's friend knows the password and logs into the user's bank account to check the spending history. 
+    - The bank sells users' data to a third party agency; the agency uses the user's shopping history to recommend something to that user, which may leverage the users' vulnerability. 
+
+- [Information privacy](https://www.cnbc.com/2019/02/13/equifax-mystery-where-is-the-data.html): always copy rarely cut. 
+
+### Privacy engineering
 
 
 [NIST Privacy Engineering: Risk Model and Assessment - Slides](https://csrc.nist.gov/csrc/media/presentations/update-on-nist-privacy-engineering-program/images-media/nl-en-priveng-ispab.pdf)
@@ -11,8 +20,9 @@
     - Check appendix D
 
 
-[NIST 800-53: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/CSRC/media/Publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf)
+- [NIST 800-53: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/CSRC/media/Publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf)
 
+- [States in Which Definition of “Personal Information” Is Broader Than the General Definition](https://www.bakerlaw.com/files/uploads/documents/data%20breach%20documents/data_breach_charts.pdf)
 
 
 ####### Stories

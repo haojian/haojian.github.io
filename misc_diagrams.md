@@ -2,6 +2,9 @@
 
 ----
 
+
+<img src="photos/diagrams/moneyflow.jpg" width="400px">
+
 Dec. 31, 2018
 
 <img src="photos/diagrams/wordsandthoughts.JPG" width = "400px"/>
