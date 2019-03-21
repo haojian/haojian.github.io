@@ -19,6 +19,12 @@ Environment setup:
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
+
+Common issues: 
+1. Cannot import gnuradio error in python
+    - try python 2.7
+    - If you install via pybombs there is a “activate” script inside the prefix. Make sure to source that first. For the assertion error: instead of pip install pybombs, git clone it and sudo pip install it. 
+
 [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/page_usrp_x3x0.html)
 
 

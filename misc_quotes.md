@@ -2,6 +2,11 @@ Quotes
 ==============
 
 ```
+The servers for Jibo the social robot are apparently shutting down. Multiple owners report that Jibo himself has been delivering the news: "Maybe someday when robots are way more advanced than today, and everyone has them in their homes, you can tell yours that I said hello."
+```
+
+
+```
 高立意, 低视角.
 ```
 
