@@ -162,3 +162,11 @@ SoapySDRUtil --info
 #now run SoapySDRUtil with --find to locate devices on the system
 SoapySDRUtil --find="driver=lime"
 ```
+
+
+#### HackerRF & GNU Radio
+
+1. sudo apt-get install gr-osmosdr
+2. sudo apt-get install hackrf-tools
+3. hackrf_info
+4. sudo apt-get install gnuradio
