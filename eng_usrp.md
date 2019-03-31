@@ -166,6 +166,7 @@ SoapySDRUtil --find="driver=lime"
 
 #### HackerRF & GNU Radio
 
+0. [uhd binary install](https://files.ettus.com/manual/page_install.html)
 1. sudo apt-get install gr-osmosdr
 2. sudo apt-get install hackrf-tools
 3. hackrf_info
