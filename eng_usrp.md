@@ -168,7 +168,8 @@ SoapySDRUtil --find="driver=lime"
 
 0. [uhd binary install](https://files.ettus.com/manual/page_install.html)
 1. sudo apt-get install gr-osmosdr
-2. sudo apt-get install hackrf-tools
+2. sudo apt-get install hackrf
 3. hackrf_info
 4. sudo apt-get install gnuradio
 5. if there are some erros, try to uninstall uhd first "sudo apt-get remove uhd-host"
+6. when install gr-osmosdr through pybombs, you may come across with the c++ standard 11 issues. Adding "set (CMAKE_CXX_STANDARD 11)" at the beginning of "prefix/default/src/gr-osmosdr/build/CMakeLists.txt" can resolve that issue.
