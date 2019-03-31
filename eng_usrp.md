@@ -171,3 +171,4 @@ SoapySDRUtil --find="driver=lime"
 2. sudo apt-get install hackrf-tools
 3. hackrf_info
 4. sudo apt-get install gnuradio
+5. if there are some erros, try to uninstall uhd first "sudo apt-get remove uhd-host"
