@@ -1,6 +1,13 @@
 Math
 ===========
 
+## Beatiful math
+
+- [Euler's Formula for Complex Numbers](https://www.mathsisfun.com/algebra/eulers-formula.html)
+	* why e^{ix} = cos x + i sin x
+
+- [Why is 0! = 1?](https://www.youtube.com/watch?v=X32dce7_D48&list=LL3uhKGIAciIX0i206XocM5w&index=3&t=0s)
+
 ## Math
 
 - [Spherical coordinate system](https://en.wikipedia.org/wiki/Spherical_coordinate_system)

@@ -20,6 +20,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+
+Apr. 7, 2019
+
+* [What baseball teaches us about measuring talent](https://www.newyorker.com/magazine/2019/04/08/what-baseball-teaches-us-about-measuring-talent)
+
+
 Jan. 2, 2019
 
 * [Digital Market Manipulation](http://www.gwlr.org/wp-content/uploads/2014/10/Calo_82_41.pdf)
