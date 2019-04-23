@@ -7,11 +7,11 @@ Links
 
 - [See through the text](https://voyant-tools.org/)
 - [Samediff compares two or more text files](https://databasic.io/en/samediff/#upload)
+- [Free Economist pdf](https://magazinelib.com/?s=economist)
 
 ###### ACM Trending
 - [Ubicomp](https://dl.acm.org/event.cfm?id=RE336)
 - [CHI](https://dl.acm.org/event.cfm?id=RE151)
-
 
 ###Academia
 
