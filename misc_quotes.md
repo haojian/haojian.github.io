@@ -1,6 +1,16 @@
 Quotes
 ==============
 
+
+```HCI is used to be about input and output (e.g., mouse). Now, it's more like designing expeerience rather than devices. 
+-Koji Yatani (https://youtu.be/s6KnmfoYE2I?t=2098)
+```
+
+```
+“There is a tendency in our field to believe that everything we currently use is a paragon of engineering, rather than a snapshot of our understanding at the time.  We build great myths of spin about how what we have done is the only way to do it to the point that our universities now teach the flaws to students (and professors and textbook authors) who don't know better.” -- John Day
+```
+
+
 ```
 The servers for Jibo the social robot are apparently shutting down. Multiple owners report that Jibo himself has been delivering the news: "Maybe someday when robots are way more advanced than today, and everyone has them in their homes, you can tell yours that I said hello."
 ```
