@@ -1,3 +1,8 @@
+### Why privacy is not important
+
+- I don't care argument
+    * https://youtu.be/iEEayzR_Xq0?t=3m53s
+
 ### Privacy 101
 
 - Privacy v.s. Security

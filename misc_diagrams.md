@@ -2,6 +2,13 @@
 
 ----
 
+Apr. 23, 2018
+
+<img src="photos/diagrams/mindflow.JPG" width="400px">
+
+
+
+Jan. 10, 2018
 
 <img src="photos/diagrams/moneyflow.jpg" width="400px">
 
