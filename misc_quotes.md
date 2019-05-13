@@ -6,7 +6,7 @@ Relationship is only difficult when one of you is trying too hard.
 ```
 
 ```
-HCI is used to be about input and output (e.g., mouse). Now, it's more like designing expeerience rather than devices. 
+HCI is used to be about input and output (e.g., mouse). Now, it's more like designing experience rather than devices. 
 -Koji Yatani (https://youtu.be/s6KnmfoYE2I?t=2098)
 ```
 
