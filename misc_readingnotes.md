@@ -20,6 +20,10 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+May. 20, 2019
+
+* [The art of deciding with data: evidence from how employers translate credit reports into hiring decisions](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwx030/4098110?guestAccessKey=e7f0f170-dd4e-438d-979c-470d3059df20)
+
 
 Apr. 7, 2019
 
