@@ -3,6 +3,11 @@ The negative sides of the positive technology
 
 ###2019 
 
+- [Smart Algorithmic Change Requires a Collaborative Political Process](https://www.theregreview.org/2019/02/12/goodman-smart-algorithmic-change-requires-collaborative-political-process/)
+    - [Defining Equity in Algorithmic Change](https://www.theregreview.org/2019/02/11/goodman-defining-equity-algorithmic-change/)
+    - [Boston school bus project underscores the value of data analytics](https://edscoop.com/boston-school-bus-project-underscores-the-value-of-data-analytics/)
+    - not necessarily privacy. but i feel interesting about the adoption of a data driven society. 
+
 - [Is your pregnancy app sharing your intimate data with your boss?](https://www.washingtonpost.com/amphtml/technology/2019/04/10/tracking-your-pregnancy-an-app-may-be-more-public-than-you-think/)
 
 
