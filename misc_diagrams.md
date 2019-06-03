@@ -2,6 +2,13 @@
 
 ----
 
+June. 3, 2019
+
+<img src="photos/diagrams/public_good_matrix.png" width="400px">
+
+<img src="photos/diagrams/user_centered_design.png" width="400px">
+
+
 Apr. 23, 2018
 
 <img src="photos/diagrams/mindflow.JPG" width="400px">
