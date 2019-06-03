@@ -20,6 +20,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+June 2, 2019
+* [Human-centered Capitalism - Andrew Yang](https://www.yang2020.com/policies/human-capitalism/)
+	- Humans are more important than money
+	- The unit of a Human Capitalism economy is each person, not each dollar
+	- Markets exist to serve our common goals and values
+
 May. 21, 2019
 
 * [The Unlikely Activists Who Took On Silicon Valley — and Won](https://www.nytimes.com/2018/08/14/magazine/facebook-google-privacy-data.html)
