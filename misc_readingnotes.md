@@ -4,12 +4,9 @@ Reading notes - my mind gym
 
 In progress and to do list:
 
-- [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
-	- from a stanford prof. keynote speaker in cvpr.
-	- there is an interesting course in stanford: [Food Talks: The Language of Food](https://web.stanford.edu/class/think53/)
-	- Haha: Intellectually engage with an important part of their lives and develop a reflective dimension that will enrich their current and future lives.
-- [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925) - 4 
-- [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548) - 4
+- [PRIVACY AS A PUBLIC GOOD](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3824&context=dlj)
+- [A Prehistory of the Cloud](https://s3.amazonaws.com/arena-attachments/676445/9d3db03e6af8d1014e4ff6f195227502.pdf)
+
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf) - 4
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf) - 4
 - [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
@@ -20,11 +17,24 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+June 3, 2019
+
+* [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
+	- from a stanford prof. keynote speaker in cvpr.
+	- there is an interesting course in stanford: [Food Talks: The Language of Food](https://web.stanford.edu/class/think53/)
+	- Haha: Intellectually engage with an important part of their lives and develop a reflective dimension that will enrich their current and future lives.
+* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925) - 4 
+* [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548) - 4
+
 June 2, 2019
 * [Human-centered Capitalism - Andrew Yang](https://www.yang2020.com/policies/human-capitalism/)
 	- Humans are more important than money
 	- The unit of a Human Capitalism economy is each person, not each dollar
 	- Markets exist to serve our common goals and values
+
+May. 30, 2019
+
+* [Privacy, Big Data and the Public Good](http://wpressutexas.net/cs378h/images/b/b3/LaneEtAlPrivacyBigDataAndThePublicGood.pdf)
 
 May. 21, 2019
 
