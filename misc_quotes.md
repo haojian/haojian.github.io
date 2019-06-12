@@ -2,6 +2,21 @@ Quotes
 ==============
 
 ```
+Science is unable to set its own priorities. It is also incapable of determining what to do with its discoveries. 
+Scientifc research can flourish only in alliance with some religion or ideology. The ideology justifies the costs of the research. In exchange, the ideology influences the scientific agenda and determines what to do with the discoveries.
+
+- Spaiens - A breif history of humankind.
+```
+
+
+```
+Capitalism where income doesn’t start at zero. 
+
+- a nice way to frame ubi
+```
+
+
+```
 Relationship is only difficult when one of you is trying too hard. 
 ```
 

@@ -17,6 +17,19 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+June 9, 2019
+
+* [Governing the Commons: The Evolution of Institutions for Collective Action](https://wtf.tw/ref/ostrom_1990.pdf)
+
+
+June 8, 2019
+
+* [Hacking Darwin: Genetic Engineering and the Future of Humanity](https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/149267009X)
+	- Babies borned through IVF will surpass sex in 2045.
+	- Instead of editing gene directly, there exists several mild genetic engineering tactics. 
+		- e.g., The jewish community adopted genetic engineering to combat Tay-Sachs.
+	- competition will drive the genetic revolution forward. China recently announced that selection process for the 2022 winter olympics will include genetic sequencing. 
+
 June 3, 2019
 
 * [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
