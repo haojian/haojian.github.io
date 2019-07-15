@@ -17,6 +17,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+
+July 15, 2019
+
+* [Casey Neistat's Guide to Filmmaking](https://www.youtube.com/watch?v=nLSUrTxquyE)
+	- highlight at around 3 mins.
+
 July 8, 2019
 
 * [the-man-whos-going-to-save-your-grocery-store](https://longreads.com/2019/04/23/the-man-whos-going-to-save-your-grocery-store/?utm_source=Benedict%27s+newsletter&utm_campaign=b237de206c-Benedict%27s+Newsletter+295&utm_medium=email&utm_term=0_4999ca107f-b237de206c-70519777&mc_cid=b237de206c&mc_eid=75f2a96614)
