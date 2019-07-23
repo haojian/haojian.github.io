@@ -18,6 +18,10 @@ In progress and to do list:
 
 
 
+July 23, 2019
+
+* [李猛：在研究与教育之间：美国研究型大学兴起的本科学院问题](http://www.aisixiang.com/data/110323.html)
+
 July 15, 2019
 
 * [Casey Neistat's Guide to Filmmaking](https://www.youtube.com/watch?v=nLSUrTxquyE)
