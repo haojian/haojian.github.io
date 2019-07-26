@@ -17,6 +17,9 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+July 25, 2019
+
+* [In defense of the black box](https://science.sciencemag.org/content/364/6435/26)
 
 July 23, 2019
 
