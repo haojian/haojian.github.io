@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+PbD represents a significant shift from traditional approaches to protecting privacy, which focus on setting out minimum standards for information management practices, and providing remedies for privacy breaches, after-the-fact. 
+
+- a really good quote.
+```
+
+
+```
 Science is unable to set its own priorities. It is also incapable of determining what to do with its discoveries. 
 Scientifc research can flourish only in alliance with some religion or ideology. The ideology justifies the costs of the research. In exchange, the ideology influences the scientific agenda and determines what to do with the discoveries.
 
