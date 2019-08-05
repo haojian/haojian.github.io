@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+Men are born ignorant, not stupid. They are made stupid by education. 
+
+- Bertrand Russell
+```
+
+
+```
 PbD represents a significant shift from traditional approaches to protecting privacy, which focus on setting out minimum standards for information management practices, and providing remedies for privacy breaches, after-the-fact. 
 
 - a really good quote.
