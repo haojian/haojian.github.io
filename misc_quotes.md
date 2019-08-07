@@ -2,6 +2,12 @@ Quotes
 ==============
 
 ```
+温室里的花朵需要呵护，白手起家的孩子自寻出路。
+[蓬蒿人](https://www.youtube.com/watch?v=vrRxZh2mFUM)
+```
+
+
+```
 Men are born ignorant, not stupid. They are made stupid by education. 
 
 - Bertrand Russell
