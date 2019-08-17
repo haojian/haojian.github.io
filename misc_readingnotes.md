@@ -17,6 +17,11 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Aug. 17, 2019
+
+* [SILICON VALLEY AND THE NEW FEUDALISM: WHY THE 'INTERNET OF THINGS' MARKS A RETURN TO THE MIDDLE AGES](https://www.newsweek.com/silicon-valley-private-property-and-new-feudalism-why-internet-things-marks-660102)
+	- The analogy between IoT data ownership and the land ownership in the feudal system of medieval Europe is interesting.
+
 July 25, 2019
 
 * [In defense of the black box](https://science.sciencemag.org/content/364/6435/26)
