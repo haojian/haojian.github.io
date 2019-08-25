@@ -17,6 +17,14 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Aug. 24, 2019
+
+* [国外一个老爸和女儿打赌说：自己能在她的叉子扎到手之前，把地上的水擦干。小女儿当然不信，于是两人开始比赛，结果老爸的套路太深了...](https://www.weibo.com/tv/v/I0pfQfBRS?fid=1034:4400858704887786)
+
+Aug. 23, 2019
+
+* [Rejection letter and reviews for Granovetter’s "The Strength of Weak Ties." (early version, 1969)](https://scatter.files.wordpress.com/2014/10/granovetter-rejection.pdf)
+
 Aug. 17, 2019
 
 * [SILICON VALLEY AND THE NEW FEUDALISM: WHY THE 'INTERNET OF THINGS' MARKS A RETURN TO THE MIDDLE AGES](https://www.newsweek.com/silicon-valley-private-property-and-new-feudalism-why-internet-things-marks-660102)
