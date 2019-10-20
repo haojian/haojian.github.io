@@ -16,6 +16,7 @@ Environment setup:
             sudo pybombs -v fetch gnuradio
             sudo pybombs install gr-gsm
             ```
+    - `Package has no install method: qt5`: 
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
