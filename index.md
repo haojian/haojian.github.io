@@ -74,6 +74,7 @@ Mobile
 
 Misc
 ------
+- [Books and movies](misc_book_movie.md)
 - [Reading notes](misc_readingnotes.md)
 - [Diagrams](misc_diagrams.md)
 - [Dualism](misc_dualism.md)
