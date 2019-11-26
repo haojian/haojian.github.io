@@ -17,6 +17,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Nov. 26, 2019
+
+* [Cocoon - A dedicated space for the most important people in your life](https://cocoon.com/)
+	* A super cool app idea.
+
+
 Oct. 20, 2019
 
 * [Bill Schilit, Navigating the network of knowledge: mining quotations from massive-scale digital libraries of books](https://www.cs.cmu.edu/~hcii-seminars/videos/Schilit10.MP4)
