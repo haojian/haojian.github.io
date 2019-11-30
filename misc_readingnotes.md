@@ -17,6 +17,12 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+
+Nov. 30, 2019
+
+* [Hermit Crabs Line Up By Size to Exchange Shells](https://www.discovermagazine.com/planet-earth/hermit-crabs-line-up-by-size-to-exchange-shells)
+	- holy cow!
+
 Nov. 26, 2019
 
 * [Cocoon - A dedicated space for the most important people in your life](https://cocoon.com/)

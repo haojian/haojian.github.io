@@ -1,6 +1,13 @@
 Web
 ===========
 
+## React
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- backend nodejs.
+- frontend react code.
+
+
 ## Fast website hack
 
 - Backend: a restful service api
