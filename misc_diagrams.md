@@ -2,6 +2,12 @@
 
 ----
 
+
+Dec. 6, 2019
+
+UX Analysis-Synthesis Bridge Model
+<img src="photos/diagrams/ux-analysis-synthesis-bridge-model.jpg" width="400px">
+
 July. 18, 2019
 
 This was a 1TB hard drive in 1937.
