@@ -18,6 +18,12 @@ In progress and to do list:
 
 
 
+Dec. 17, 2019
+
+* [Max Weber, “Science  as  a  Vocation”](http://www.wisdom.weizmann.ac.il/~oded/X/WeberScienceVocation.pdf) 
+* [Max Weber, Politics as a Vocation](http://fs2.american.edu/dfagel/www/Class%20Readings/Weber/PoliticsAsAVocation.pdf)
+
+
 Nov. 30, 2019
 
 * [Hermit Crabs Line Up By Size to Exchange Shells](https://www.discovermagazine.com/planet-earth/hermit-crabs-line-up-by-size-to-exchange-shells)

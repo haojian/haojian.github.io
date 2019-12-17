@@ -6,6 +6,7 @@ Web
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - backend nodejs.
 - frontend react code.
+- [What is “export default” in javascript?](https://stackoverflow.com/questions/21117160/what-is-export-default-in-javascript)
 
 
 ## Fast website hack
