@@ -34,3 +34,12 @@ The negative sides of the positive technology
 
 - [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#5b997ddb6668)
     - [A discussion](https://medium.com/@Kendra_Serra/but-what-did-the-daughter-think-8d9233789b4f)
+
+
+
+##### Android privacy evolvement
+
+Before Android 4.3 or iOS 5, users could not install an app but say "no" to that app's demand that it be able to read their address book, track their location, or grab their phone number or IMEI.
+- [Awesome Privacy Tools in Android 4.3+](https://www.eff.org/deeplinks/2013/11/awesome-privacy-features-android-43)
+- [Google Removes Vital Privacy Feature From Android, Claiming Its Release Was Accidental](https://www.eff.org/deeplinks/2013/12/google-removes-vital-privacy-features-android-shortly-after-adding-them)
+    - The initial feature is called.
