@@ -17,6 +17,11 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Jan. 3, 2019
+
+* [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+	- very persuasive and convincing analysis regarding speech. 
+
 
 Dec. 17, 2019
 
