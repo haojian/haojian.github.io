@@ -1,3 +1,13 @@
+### The papers shape my understanding of privacy.
+
+
+- [A Taxonomy of Privacy by Daniel J. Solove](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477(2006).pdf)
+- [An Architecture for Privacy-Sensitive Ubiquitous Computing by Jason Hong](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
+- [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
+- [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
+- [A Privacy Awareness System for Ubiquitous Computing Environments by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647988.741491)
+
+
 ### Why privacy is not important
 
 - I don't care argument
