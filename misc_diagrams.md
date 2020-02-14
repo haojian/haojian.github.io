@@ -4,6 +4,7 @@
 
 
 Feb. 14, 2020
+
 Machine translation vauquios triangle
 
 <img src="photos/diagrams/vauquios-triangle.png" width="400px">
