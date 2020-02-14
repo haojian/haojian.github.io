@@ -4,12 +4,15 @@
 
 
 Feb. 14, 2020
+Machine translation vauquios triangle
+
 <img src="photos/diagrams/vauquios-triangle.png" width="400px">
 
 
 Dec. 6, 2019
 
 UX Analysis-Synthesis Bridge Model
+
 <img src="photos/diagrams/ux-analysis-synthesis-bridge-model.png" width="400px">
 
 July. 18, 2019
@@ -17,11 +20,15 @@ July. 18, 2019
 This was a 1TB hard drive in 1937.
 It was the largest vertical letter file in the world. 4000 SqFt. with over 3000 drawers 10 feet long managed by 20 workers.
 Access speed was ~3 minutes per KB.
+
 <img src="photos/diagrams/1tb_hard_drive.jpg" width="400px">
 
 June. 3, 2019
+public goods
 
 <img src="photos/diagrams/public_good_matrix.png" width="400px">
+
+user centered design
 
 <img src="photos/diagrams/user_centered_design.png" width="400px">
 
@@ -29,10 +36,12 @@ June. 3, 2019
 
 Jan. 10, 2018
 
+sankey diagram for money spending
 <img src="photos/diagrams/moneyflow.jpg" width="400px">
 
 Dec. 31, 2018
 
+thoughts->words
 <img src="photos/diagrams/wordsandthoughts.JPG" width = "400px"/>
 
 
