@@ -38,11 +38,13 @@ user centered design
 Jan. 10, 2018
 
 sankey diagram for money spending
+
 <img src="photos/diagrams/moneyflow.jpg" width="400px">
 
 Dec. 31, 2018
 
 thoughts->words
+
 <img src="photos/diagrams/wordsandthoughts.JPG" width = "400px"/>
 
 
