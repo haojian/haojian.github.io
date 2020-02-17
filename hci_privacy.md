@@ -10,6 +10,12 @@
 
 - Reading list from Jason [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
 
+
+### Some good literature review.
+
+- [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
+- 
+
 ### Why privacy is not important
 
 - I don't care argument
