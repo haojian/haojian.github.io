@@ -10,6 +10,10 @@
 
 - Reading list from Jason [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
 
+### Nice mobile system papers in Privacy.
+
+- [Apex: extending Android permission model and enforcement with user-defined runtime constraints](https://dl.acm.org/doi/abs/10.1145/1755688.1755732)
+
 
 ### Some good literature review.
 
