@@ -18,7 +18,7 @@
 ### Some good literature review.
 
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
-- 
+- [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
 ### Why privacy is not important
 
