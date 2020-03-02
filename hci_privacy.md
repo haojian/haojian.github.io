@@ -15,7 +15,7 @@
 - [Apex: extending Android permission model and enforcement with user-defined runtime constraints](https://dl.acm.org/doi/abs/10.1145/1755688.1755732)
 
 
-### Some good literature review.
+### Some good literature reviews.
 
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
