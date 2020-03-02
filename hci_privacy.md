@@ -1,4 +1,4 @@
-### The papers shape my understanding of privacy.
+### Papers shaped my understanding of privacy.
 
 
 - [A Taxonomy of Privacy by Daniel J. Solove](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477(2006).pdf)

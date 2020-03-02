@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+Curiosity is not enough; you need to have some concerns and, even better, a bit of anger. It is more important to have your own voice than to have clever ideas, and to know what's going on than to know what latest literature says. 
+- [项飙](https://www.anthro.ox.ac.uk/people/professor-biao-xiang#tab-267986)
+```
+
+
+
+```
 有能力的人，对于正确的医疗发展责无旁贷。 - 财前五郎
 ```
 
