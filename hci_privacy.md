@@ -20,6 +20,16 @@
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
+
+### Privacy in communication
+
+- [The corporate cultivation of digital resignation](https://journals.sagepub.com/doi/full/10.1177/1461444819833331?journalCode=nmsa)
+
+
+### Data ethics
+
+- [Values and Ethics in Human-Computer Interaction](https://www.nowpublishers.com/article/Details/HCI-073)
+
 ### Why privacy is not important
 
 - I don't care argument

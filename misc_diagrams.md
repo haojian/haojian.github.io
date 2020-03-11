@@ -5,6 +5,7 @@
 March. 7, 2020
 
 <img src="photos/diagrams/bj-fogg-model.png" width="400px">
+
 If you want to change behaviour three elements have to happen at the same time: motivation, ability, trigger.
 
 Feb. 14, 2020
