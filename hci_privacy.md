@@ -26,6 +26,14 @@
 - [The corporate cultivation of digital resignation](https://journals.sagepub.com/doi/full/10.1177/1461444819833331?journalCode=nmsa)
 
 
+### Privacy engineering
+
+- [The challenges of privacy engineering](https://blog.xot.nl/2017/08/02/the-challenges-of-privacy-engineering/)
+    - Most PETs focus on data minimisation or unlinkability, aiming to unconditionally protect the privacy of the user. The underlying threat model is based on not trusting anyone (government or businesses) with our personal data. This threat model is not always appropriate, and may be too strict to achieve reasonable solutions in practice.
+    - a pretty good article. 
+
+
+
 ### Data ethics
 
 - [Values and Ethics in Human-Computer Interaction](https://www.nowpublishers.com/article/Details/HCI-073)

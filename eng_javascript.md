@@ -1,5 +1,12 @@
-## Javascript
+# Javascript
 
+
+## Common NPM commands
+
+- list packages: `npm list -depth=0`. `cd ~/.node-red`
+
+
+## Syntax
 
 - [minimized library template](https://github.com/jeremyckahn/lib-tmpl)
 	- while it's already minimized, it doesn't really fit the goal to build novel interface library.
