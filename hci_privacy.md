@@ -78,3 +78,5 @@
 - In the Commission’s case against Google, the complaint
 alleged that Google used the information of consumers who signed up for Gmail to populate a new social network, Google Buzz. The creation of that social network in some cases revealed previously private information about Gmail users’ most frequent email contacts. 
 - The Commission’s complaint against Facebook alleged that Facebook’s sharing of users’ personal information beyond their privacy settings was harmful.
+
+- [different user profiles regarding smart audio: the fanatic, the reluctant adopter, the pragmatist](https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/)
