@@ -71,7 +71,8 @@
 - [States in Which Definition of “Personal Information” Is Broader Than the General Definition](https://www.bakerlaw.com/files/uploads/documents/data%20breach%20documents/data_breach_charts.pdf)
 
 
-####### Stories
+
+### Stories
 
 
 - Google noted that visitors to its Ads Preference Manager are far more likely to edit their interest settings and remain opted in rather than to opt out. 
@@ -80,3 +81,16 @@ alleged that Google used the information of consumers who signed up for Gmail to
 - The Commission’s complaint against Facebook alleged that Facebook’s sharing of users’ personal information beyond their privacy settings was harmful.
 
 - [different user profiles regarding smart audio: the fanatic, the reluctant adopter, the pragmatist](https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/)
+
+
+
+
+###  Misc
+
+- 如果重要的个人利益可以放弃，那么必然会导致强者对于弱者的剥削。 
+    - [我们的身体是否属于我们自己。](https://www.zhihu.com/question/383882573)
+    - 个人具有处置自己轻伤的权利。
+    - 法律是家长主义。
+    - 自由一定不能以彻底的放弃自由为代价，不能以丧失人的尊严为代价。
+
+
