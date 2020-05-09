@@ -2,6 +2,12 @@
 
 ----
 
+May. 9, 2020
+
+<img src="photos/diagrams/designandalchemy.png" width="400px">
+
+<img src="photos/diagrams/bloomstaxonomy.jpeg" width="400px">
+
 March. 7, 2020
 
 <img src="photos/diagrams/bj-fogg-model.png" width="400px">

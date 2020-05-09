@@ -14,6 +14,10 @@ Curiosity is not enough; you need to have some concerns and, even better, a bit 
 
 
 ```
+“所谓的志同道合，本质上就是个人利益的交集最大。我希望你们不是为了一时激情而来，是因为看到了这家公司对你们的利益才来的。”
+```
+
+```
 获得成功大概就是 一个人到了60多岁 还能appreciate 年轻人的眼光，不是变成老顽固.
 ```
 
