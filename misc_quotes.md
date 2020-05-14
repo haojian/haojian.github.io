@@ -2,6 +2,14 @@ Quotes
 ==============
 
 ```
+"Solving a problem simply means representing it so as to make the solution transparent."
+
+- Herbert Simon, Sciences of the Artificial
+```
+
+
+
+```
 Curiosity is not enough; you need to have some concerns and, even better, a bit of anger. It is more important to have your own voice than to have clever ideas, and to know what's going on than to know what latest literature says. 
 - [项飙](https://www.anthro.ox.ac.uk/people/professor-biao-xiang#tab-267986)
 ```
