@@ -1,6 +1,12 @@
 Quotes
 ==============
 
+
+```
+Fragility increases rapidly as you squeeze out the last bit of efficiency.    - John D. Cook on Twitter 
+```
+
+
 ```
 "Solving a problem simply means representing it so as to make the solution transparent."
 
