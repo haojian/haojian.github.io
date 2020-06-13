@@ -20,8 +20,15 @@ Environment setup:
             pybombs -v fetch gnuradio # make sure volk module has been checked out.
             sudo pybombs install gnuradio
             ```
+    - `Package has no install method: qt5`: 
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
+
+
+Common issues: 
+1. Cannot import gnuradio error in python
+    - try python 2.7
+    - If you install via pybombs there is a “activate” script inside the prefix. Make sure to source that first. For the assertion error: instead of pip install pybombs, git clone it and sudo pip install it. 
 
 [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/page_usrp_x3x0.html)
 
@@ -140,6 +147,34 @@ zxc
 
 one usrp, two ports
 
-
-
  ./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --subdev "A:0 B:0" --channels "0,1"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30
+
+
+
+
+ ##### LimeSDR
+
+```
+#make sure that STREAM is one of the available connections
+LimeUtil --info
+
+#now run LimeUtil with --find to locate devices on the system
+LimeUtil --find
+
+ #make sure that lime is one of the available factories 
+SoapySDRUtil --info
+
+#now run SoapySDRUtil with --find to locate devices on the system
+SoapySDRUtil --find="driver=lime"
+```
+
+
+#### HackerRF & GNU Radio
+
+0. [uhd binary install](https://files.ettus.com/manual/page_install.html)
+1. sudo apt-get install gr-osmosdr
+2. sudo apt-get install hackrf
+3. hackrf_info
+4. sudo apt-get install gnuradio
+5. if there are some erros, try to uninstall uhd first "sudo apt-get remove uhd-host"
+6. when install gr-osmosdr through pybombs, you may come across with the c++ standard 11 issues. Adding "set (CMAKE_CXX_STANDARD 11)" at the beginning of "prefix/default/src/gr-osmosdr/build/CMakeLists.txt" can resolve that issue.

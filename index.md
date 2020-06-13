@@ -74,12 +74,15 @@ Mobile
 
 Misc
 ------
+- [Books and movies](misc_book_movie.md)
 - [Reading notes](misc_readingnotes.md)
 - [Diagrams](misc_diagrams.md)
+- [Dualism](misc_dualism.md)
 - [Papers](misc_paperreading.md)
 - [Links worth my time](misc_linksworthmytime.md)
 - [Getting out of the PhD](misc_phd.md)
 - [Photography](misc_photography.md)
+- [Privacy news collection](misc_privacynews.md)
 - [Personal Video Collection](misc_videos.md)
 - [Quotes](misc_quotes.md)
 - [Resource Links](misc_res_links.md)

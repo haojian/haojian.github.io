@@ -1,6 +1,161 @@
 Quotes
 ==============
 
+
+```
+Fragility increases rapidly as you squeeze out the last bit of efficiency.    - John D. Cook on Twitter 
+```
+
+
+```
+"Solving a problem simply means representing it so as to make the solution transparent."
+
+- Herbert Simon, Sciences of the Artificial
+```
+
+
+
+```
+Curiosity is not enough; you need to have some concerns and, even better, a bit of anger. It is more important to have your own voice than to have clever ideas, and to know what's going on than to know what latest literature says. 
+- [项飙](https://www.anthro.ox.ac.uk/people/professor-biao-xiang#tab-267986)
+```
+
+
+
+```
+有能力的人，对于正确的医疗发展责无旁贷。 - 财前五郎
+```
+
+
+```
+“所谓的志同道合，本质上就是个人利益的交集最大。我希望你们不是为了一时激情而来，是因为看到了这家公司对你们的利益才来的。”
+```
+
+```
+获得成功大概就是 一个人到了60多岁 还能appreciate 年轻人的眼光，不是变成老顽固.
+```
+
+```
+“年轻时想买大房子、开好车……都是很好的想法，但是要搞清楚，这是欲望不是理想。”十几岁时读到的这句话，一直警醒我到现在。也因此能分清楚，谁是完全被欲望野心虚荣驱使，谁又是有理想、破边界、做事情的人。永远选择与后者站在一起。
+— 美团CEO王兴
+```
+
+
+```
+缺席正是治疗遗忘的最好良药，完全忘记事物的最好办法就是每天都看到它。
+- Ubicomp. 
+```
+
+
+
+```
+这种方法只关心情绪，却不探究触发情绪的意义；它不问人们为何汇聚成为集体，只关心成群后人们的心里状态相比五分钟前独处时有了什么变化。
+[乌合之众 被高估了](http://www.infzm.com/wap/#/content/155938)
+```
+
+
+```
+要体现你的职业潜能。我一直说我们从事文字工作，你写个病假条也要比别人好。当你实用文字的时候要高度紧张起来，作为一个职业编剧，文字是你安身立命的工具。
+[编剧汪海林 影视圈20年 目睹之怪现象](https://youtu.be/l1-dAGMbwpg?t=2474)
+```
+
+
+```
+温室里的花朵需要呵护，白手起家的孩子自寻出路。
+[蓬蒿人](https://www.youtube.com/watch?v=vrRxZh2mFUM)
+```
+
+
+```
+Men are born ignorant, not stupid. They are made stupid by education. 
+
+- Bertrand Russell
+```
+
+
+```
+PbD represents a significant shift from traditional approaches to protecting privacy, which focus on setting out minimum standards for information management practices, and providing remedies for privacy breaches, after-the-fact. 
+
+- a really good quote.
+```
+
+
+```
+Science is unable to set its own priorities. It is also incapable of determining what to do with its discoveries. 
+Scientifc research can flourish only in alliance with some religion or ideology. The ideology justifies the costs of the research. In exchange, the ideology influences the scientific agenda and determines what to do with the discoveries.
+
+- Spaiens - A breif history of humankind.
+```
+
+
+```
+Capitalism where income doesn’t start at zero. 
+
+- a nice way to frame ubi
+```
+
+
+```
+Relationship is only difficult when one of you is trying too hard. 
+```
+
+```
+HCI is used to be about input and output (e.g., mouse). Now, it's more like designing experience rather than devices. 
+-Koji Yatani (https://youtu.be/s6KnmfoYE2I?t=2098)
+```
+
+```
+“There is a tendency in our field to believe that everything we currently use is a paragon of engineering, rather than a snapshot of our understanding at the time.  We build great myths of spin about how what we have done is the only way to do it to the point that our universities now teach the flaws to students (and professors and textbook authors) who don't know better.” -- John Day
+```
+
+
+```
+The servers for Jibo the social robot are apparently shutting down. Multiple owners report that Jibo himself has been delivering the news: "Maybe someday when robots are way more advanced than today, and everyone has them in their homes, you can tell yours that I said hello."
+```
+
+
+```
+高立意, 低视角.
+```
+
+
+```
+“All of humanity's problems stem from man's inability to sit quietly in a room alone.”
+- Blaise Pascal, 1654
+```
+
+
+
+```
+Politics is solving today's problems with yesterday's tools. 
+
+Our "age of anxiety" is, in great part, the result of trying to do today's job with yesterday's tools. 
+
+- [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
+```
+
+
+```
+人是为了活着本身而活着，而不是为了活着以外的任何事物所活着. 
+-余华
+```
+
+```
+A good paper is saying what you did and showing you did what you say. 
+```
+
+
+```
+If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles.
+- Engelbart
+```
+
+```
+The complexity of a lot of the problems [in the world] and the means for solving them are just getting to be too much. The time available for solving a lot of the problems is getting shorter and shorter. So the urgency goes up… The complexity/urgency factor had transcended what humans can cope with. I suddenly flashed that if you could do something to improve human capability to cope with that, then you’d really contribute something basic. 
+- Engelbart’s Crusade
+```
+
+
 ```
 Will the continual stream of messages from wearable devices prove to be irresistible, diverting me from my work, or will they amplify my abilities? ... It all depends upon whether we use them to focus and augment our activities or to distract. It is up to us ... to decide which it is to be.
 
@@ -197,7 +352,8 @@ Proper apologies have three parts:
 
 
 ```
-演员可以过很多不一样的人生。辩论是思想上的演员。
+演员可以过很多不一样的人生。辩论是思想上的演员。   - 奇葩说
+电影发明之后，人类的生命，比起以前延长了三倍！      - 杨德昌[一一]
 ```
 
 ```

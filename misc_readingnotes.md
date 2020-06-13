@@ -4,12 +4,9 @@ Reading notes - my mind gym
 
 In progress and to do list:
 
-- [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
-	- from a stanford prof. keynote speaker in cvpr.
-	- there is an interesting course in stanford: [Food Talks: The Language of Food](https://web.stanford.edu/class/think53/)
-	- Haha: Intellectually engage with an important part of their lives and develop a reflective dimension that will enrich their current and future lives.
-- [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925) - 4 
-- [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548) - 4
+- [PRIVACY AS A PUBLIC GOOD](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3824&context=dlj)
+- [A Prehistory of the Cloud](https://s3.amazonaws.com/arena-attachments/676445/9d3db03e6af8d1014e4ff6f195227502.pdf)
+
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf) - 4
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf) - 4
 - [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
@@ -20,10 +17,146 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Jan. 3, 2019
+
+* [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+	- very persuasive and convincing analysis regarding speech. 
+
+
+Dec. 17, 2019
+
+* [Max Weber, “Science  as  a  Vocation”](http://www.wisdom.weizmann.ac.il/~oded/X/WeberScienceVocation.pdf) 
+* [Max Weber, Politics as a Vocation](http://fs2.american.edu/dfagel/www/Class%20Readings/Weber/PoliticsAsAVocation.pdf)
+
+
+Nov. 30, 2019
+
+* [Hermit Crabs Line Up By Size to Exchange Shells](https://www.discovermagazine.com/planet-earth/hermit-crabs-line-up-by-size-to-exchange-shells)
+	- holy cow!
+
+Nov. 26, 2019
+
+* [Cocoon - A dedicated space for the most important people in your life](https://cocoon.com/)
+	* A super cool app idea.
+
+
+Oct. 20, 2019
+
+* [Bill Schilit, Navigating the network of knowledge: mining quotations from massive-scale digital libraries of books](https://www.cs.cmu.edu/~hcii-seminars/videos/Schilit10.MP4)
+
+Aug. 24, 2019
+
+* [国外一个老爸和女儿打赌说：自己能在她的叉子扎到手之前，把地上的水擦干。小女儿当然不信，于是两人开始比赛，结果老爸的套路太深了...](https://www.weibo.com/tv/v/I0pfQfBRS?fid=1034:4400858704887786)
+
+Aug. 23, 2019
+
+* [Rejection letter and reviews for Granovetter’s "The Strength of Weak Ties." (early version, 1969)](https://scatter.files.wordpress.com/2014/10/granovetter-rejection.pdf)
+
+Aug. 17, 2019
+
+* [SILICON VALLEY AND THE NEW FEUDALISM: WHY THE 'INTERNET OF THINGS' MARKS A RETURN TO THE MIDDLE AGES](https://www.newsweek.com/silicon-valley-private-property-and-new-feudalism-why-internet-things-marks-660102)
+	- The analogy between IoT data ownership and the land ownership in the feudal system of medieval Europe is interesting.
+
+July 25, 2019
+
+* [In defense of the black box](https://science.sciencemag.org/content/364/6435/26)
+
+July 23, 2019
+
+* [李猛：在研究与教育之间：美国研究型大学兴起的本科学院问题](http://www.aisixiang.com/data/110323.html)
+
+July 15, 2019
+
+* [Casey Neistat's Guide to Filmmaking](https://www.youtube.com/watch?v=nLSUrTxquyE)
+	- highlight at around 3 mins.
+
+July 8, 2019
+
+* [the-man-whos-going-to-save-your-grocery-store](https://longreads.com/2019/04/23/the-man-whos-going-to-save-your-grocery-store/?utm_source=Benedict%27s+newsletter&utm_campaign=b237de206c-Benedict%27s+Newsletter+295&utm_medium=email&utm_term=0_4999ca107f-b237de206c-70519777&mc_cid=b237de206c&mc_eid=75f2a96614)
+
+June 12, 2019
+
+* [All Things Considered: An Analysis of IoT Devices on Home Networks. To appear in 28th USENIX Security Symposium (USENIX Security '19)](https://kumarde.com/)
+	- just feel sad for all the users. 
+
+June 9, 2019
+
+* [Governing the Commons: The Evolution of Institutions for Collective Action](https://wtf.tw/ref/ostrom_1990.pdf)
+
+
+June 8, 2019
+
+* [Hacking Darwin: Genetic Engineering and the Future of Humanity](https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/149267009X)
+	- Babies borned through IVF will surpass sex in 2045.
+	- Instead of editing gene directly, there exists several mild genetic engineering tactics. 
+		- e.g., The jewish community adopted genetic engineering to combat Tay-Sachs.
+	- competition will drive the genetic revolution forward. China recently announced that selection process for the 2022 winter olympics will include genetic sequencing. 
+
+June 3, 2019
+
+* [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
+	- from a stanford prof. keynote speaker in cvpr.
+	- there is an interesting course in stanford: [Food Talks: The Language of Food](https://web.stanford.edu/class/think53/)
+	- Haha: Intellectually engage with an important part of their lives and develop a reflective dimension that will enrich their current and future lives.
+* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925) - 4 
+* [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548) - 4
+
+June 2, 2019
+* [Human-centered Capitalism - Andrew Yang](https://www.yang2020.com/policies/human-capitalism/)
+	- Humans are more important than money
+	- The unit of a Human Capitalism economy is each person, not each dollar
+	- Markets exist to serve our common goals and values
+
+May. 30, 2019
+
+* [Privacy, Big Data and the Public Good](http://wpressutexas.net/cs378h/images/b/b3/LaneEtAlPrivacyBigDataAndThePublicGood.pdf)
+
+May. 21, 2019
+
+* [The Unlikely Activists Who Took On Silicon Valley — and Won](https://www.nytimes.com/2018/08/14/magazine/facebook-google-privacy-data.html)
+
+
+May. 20, 2019
+
+* [The art of deciding with data: evidence from how employers translate credit reports into hiring decisions](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwx030/4098110?guestAccessKey=e7f0f170-dd4e-438d-979c-470d3059df20)
+
+
+Apr. 7, 2019
+
+* [What baseball teaches us about measuring talent](https://www.newyorker.com/magazine/2019/04/08/what-baseball-teaches-us-about-measuring-talent)
+
+
+Jan. 2, 2019
+
+* [Digital Market Manipulation](http://www.gwlr.org/wp-content/uploads/2014/10/Calo_82_41.pdf)
+	- a very thoughtful reading on the ethics of information.
+
+
+Dec. 30, 2018
+
+* [How DropBox Started As A Minimal Viable Product](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/)
+
+Dec. 29, 2018
+
+* [UW Allen School Colloquium: Ariel Procaccia (Carnegie Mellon University)](https://www.youtube.com/watch?v=7mWKjvm7kDI)
+	- liquid democracy, participatory budgeting, virtual democracy.
+
+* [What "Ancient" Chinese Sounded Like - and how we know](https://www.youtube.com/watch?v=ME8wzyR6pO8)
+	- 反切, 切韵
+
+Dec. 15, 2018
+
+* [It’s time for a Bill of Data Rights](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)
+
+Dec. 11, 2018
+
+* [The Seductive Diversion of ‘Solving’ Bias in Artificial Intelligence](https://medium.com/s/story/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53)
+
 Dec. 10, 2018
 
 * [Design at Large- Kentaro Toyama, Geek Heresy: What If Good Design Isn't Enough?](https://www.youtube.com/watch?v=7HwDiqo4JYQ)
 	- very nice talk regarding technology's law of amplification.
+	- like the water pumping example at 23 min.
 
 Dec. 8, 2018
 
