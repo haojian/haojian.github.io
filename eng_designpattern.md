@@ -1,6 +1,9 @@
 Design pattern
 ===========
 
+- [Joshua Bloch: Bumper-Sticker API Design](https://www.infoq.com/articles/API-Design-Joshua-Bloch/)
+	- Video: [How to Design a Good API & Why it Matters](http://www.infoq.com/presentations/effective-api-design)
+
 
 ** Singleton Pattern **
 
