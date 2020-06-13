@@ -10,11 +10,15 @@ Environment setup:
         - qt errors => reinstall qt
         - boost errors = > i use ubuntu 18 which come with boost 1.65
         - for each re-installation, update the pybombs from github and manually clean and refetch
+        - recommend to run in py3. i got some troubles when i run it in py27 from anaconda.
+        - remember to uninstall uhd and uhd-dev first.
+            - `pybombs remove uhd; sudo   apt-get remove libuhd-dev`
             ```
-            pip install git+https://github.com/gnuradio/pybombs.git
+            pip install --upgrade git+https://github.com/gnuradio/pybombs.git
+
             sudo rm /usr/local/src/gnuradio -rf
-            sudo pybombs -v fetch gnuradio
-            sudo pybombs install gr-gsm
+            pybombs -v fetch gnuradio # make sure volk module has been checked out.
+            sudo pybombs install gnuradio
             ```
 
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
