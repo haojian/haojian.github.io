@@ -1,11 +1,14 @@
 HCI_Papers
 ====================
 
-## High
+## To do list
 
 
 
-##To do list
+
+
+## Done list
+
 - [A Black-Box approach to machine learning](https://www.google.com/search?q=A+Black-Box+approach+to+machine+learning)
 - [Ways of Knowing in HCI](http://www.amazon.com/Ways-Knowing-HCI-Judith-Olson/dp/1493903772)
 - [Local Label Descriptor for Example based Semantic Image Labeling
@@ -13,16 +16,13 @@ HCI_Papers
 - [Ensemble of Examplar-SVMs for Object Detection and Beyond](http://www.cs.cmu.edu/~tmalisie/projects/iccv11/)
 - [Undoing the Damage of Dataset Bias](http://www.eecs.berkeley.edu/~tinghuiz/papers/eccv2012.pdf)
 - [Ensemble-Based Tracking: Aggregating Crowdsourced Structured Time Series Data (ICML2014')](http://winsty.net/ebt.html)
-- [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c&feature=youtu.be)
 - [Synaptic Mechanisms Underlying Sparse Coding of Active Touch](http://www.cell.com/neuron/abstract/S0896-6273(11)00120-6)
 - [GestureWrist and GesturePad: Unobtrusive Wearable Interaction Devices](http://www.sonycsl.co.jp/person/rekimoto/papers/iswc01.pdf)
 - [Project Gauss: Portable and Occlusion-Free Magnetic Object Tracking Using Analog Hall-Sensor Grid](http://www.cmlab.csie.ntu.edu.tw/~howieliang/HCIProjects/projectGauss.html)
 - [What Caused that Touch? Expressive Interaction with a Surface through Fiduciary-Tagged Gloves](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6881C18F471335384DB38674E6E0C280?doi=10.1.1.174.8368&rep=rep1&type=pdf)
 - [Real Time Object Scanning Using a Mobile Phone and Cloud-based Visual Search Engine](http://www.cs.cmu.edu/~jbigham/pubs/pdfs/2013/objectscanning.pdf)
-- [Industrial Light & Magic](http://www.ilm.com/)
 - [Word to vector](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
-## Done list
 - [Stories of mathematician](http://www.math.ucla.edu/~wuty11/Heroes%20in%20my%20heart.pdf)
 - [Are you living in a computer simulation?](https://www.fat.bme.hu/student/pub/Programozas3/SimulationArgument.pdf)
 	- 1. humans go extince before we can develop advanced simulation techniques.
