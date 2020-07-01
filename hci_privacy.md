@@ -7,6 +7,7 @@
 - [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
 - [A Privacy Awareness System for Ubiquitous Computing Environments by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647988.741491)
 - [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
+- [End-user privacy in human-computer interaction](https://drive.google.com/file/d/1Wp_6r3vG1qNti91wogqdGHC2IMHLkRy6/view?usp=sharing)
 
 - Reading list from Jason [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
 
