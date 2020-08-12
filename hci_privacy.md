@@ -95,3 +95,4 @@ alleged that Google used the information of consumers who signed up for Gmail to
     - 自由一定不能以彻底的放弃自由为代价，不能以丧失人的尊严为代价。
 
 
+- [机器识别指纹与人工识别指纹的区别与联系](http://b2museum.cdstm.cn/identification/zwsb-relative1.htm)

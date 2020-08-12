@@ -39,7 +39,6 @@ HCI
 - [Matlab](hci_matlab.md)
 - [Mechanical Turk](hci_mechanicalturk.md)
 - [Meta research](hci_metaresearch.md)
-- [Misc](hci_misc.md)
 - [Latex](hci_latex.md)
 - [Privacy](hci_privacy.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
@@ -47,6 +46,7 @@ HCI
 - [Sound](hci_sound.md)
 - [Speech](hci_speechrec.md)
 - [Stats](hci_stats.md)
+- [HCI Thesis](hci_thesis.md)
 - [Vision](hci_vision.md)
 - [Writing](hci_writing.md)
 
