@@ -7,18 +7,42 @@ Thesis
 
 ## HCI Thesis collections
 
+<img src="photos/diagrams/phd-comics-thesis.gif" width="400px">
+
+<br/>
+<br/>
+
 <code>
-I found that reading these theses from established researchers helped me understand their secret sauce for research. I release them here and hope it would help someone in the same shoes as me. 
+"No one reads a Ph.D. thesis. "<br/>
+"No. I did."
 </code>
+
+<br/>
+<br/>
 
 - [Anind Dey](https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf): Providing Architectural Support for Building Context-Aware Applications. 
     - Thesis statement(TS): ```By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.```
-    - [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf), [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf),  [final thesis]()
-- [Sauvik Das](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-17-100.pdf): 
-    - TS: ```Social influences strongly affect cybersecurity behaviors, and it is possible to encourage better cybersecurity behaviors by designing security systems that are more social.``` 
+    - [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf), [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf)
+
+- [Jeff Heer](https://homes.cs.washington.edu/~jheer/files/jheer-thesis.pdf)
+    - TS: ```This thesis focuses on the central problem of how to design visualization systems that support and catalyze social sensemaking by analysts and decision-makers collaborating asynchronously. ```
+    - Visualization for sensemaking.
+
+- [Michael Bernstein](https://hci.stanford.edu/publications/2012/CrowdPoweredSystems/phd-thesis-msbernst.pdf)
+    - TS: ```This thesis proposes that combining computing with the intelligence of crowds — large groups of people connecting and coordinating online — allows the creation of hybrid human-computer systems that overcome the limits of the user-system tradeoff.```
+
+- [Bill Schilit](https://sites.google.com/site/schilit/schilit-thesis.pdf?attredirects=0)
+    - TS: ```This thesis contends that traditional software approaches are ill-suited for building mobile distributed computing software. System dynamics result in software that must be manually reconfigured when features change, and software that is constantly mis-tuned for the current computing environment. This thesis proposes an architecture for notifying applications of the changing computing environment that is simple, fault tolerant, efficient, scalable, and feasible to implement across a range of computing platforms.```
+
+- [Scott Klemmer](https://hci.stanford.edu/publications/2004/klemmer-dissertation/KlemmerDissertation.pdf): Tangible User Interface Input: Tools and Techniques 
+
 - [Jason Hong](http://www.cs.cmu.edu/~jasonh/publications/jihdiss.pdf)
     - [infrastructure, framework, library, toolkit](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.6574&rep=rep1&type=pdf) teaches me the flavor of toolkit research. 
     - [Mobisys 04](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
+
+- [Sauvik Das](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-17-100.pdf): 
+    - TS: ```Social influences strongly affect cybersecurity behaviors, and it is possible to encourage better cybersecurity behaviors by designing security systems that are more social.``` 
+
 
 - [Blase Ur](https://www.blaseur.com/phdthesis.pdf): 
     - TS: ```The objective of this thesis is to demonstrate how integrating data-driven insights about how users create and how attackers guess passwords into a tool that presents real-time feedback can equip users to make better passwords.```
@@ -29,14 +53,9 @@ I found that reading these theses from established researchers helped me underst
 
 - [Ian Li](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-11-106.pdf)
     - TS: ```A tool that allows users to associate contextual information with behavioral information can better reveal factors within one's life that affect behavior, compared to existing systems that only show behavioral information.```
-- [Jeff Heer](https://homes.cs.washington.edu/~jheer/files/jheer-thesis.pdf)
-    - TS: ```This thesis focuses on the central problem of how to design visualization systems that support and catalyze social sensemaking by analysts and decision-makers collaborating asynchronously. ```
-    - Visualization for sensemaking.
-- [Michael Bernstein](https://hci.stanford.edu/publications/2012/CrowdPoweredSystems/phd-thesis-msbernst.pdf)
-    - TS: ```This thesis proposes that combining computing with the intelligence of crowds — large groups of people connecting and coordinating online — allows the creation of hybrid human-computer systems that overcome the limits of the user-system tradeoff.```
-- [Bill Schilit](https://sites.google.com/site/schilit/schilit-thesis.pdf?attredirects=0)
-    - TS: ```This thesis contends that traditional software approaches are ill-suited for building mobile distributed computing software. System dynamics result in software that must be manually reconfigured when features change, and software that is constantly mis-tuned for the current computing environment. This thesis proposes an architecture for notifying applications of the changing computing environment that is simple, fault tolerant, efficient, scalable, and feasible to implement across a range of computing platforms.```
-- [Scott Klemmer](https://hci.stanford.edu/publications/2004/klemmer-dissertation/KlemmerDissertation.pdf)
+
+
+
 
 
 <!-- 11. Gierad Laput: http://www.gierad.com/thesis-draft.pdf
