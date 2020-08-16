@@ -46,7 +46,7 @@ HCI
 - [Sound](hci_sound.md)
 - [Speech](hci_speechrec.md)
 - [Stats](hci_stats.md)
-- [HCI Thesis](hci_thesis.md)
+- [HCI Theses](hci_thesis.md)
 - [Vision](hci_vision.md)
 - [Writing](hci_writing.md)
 
