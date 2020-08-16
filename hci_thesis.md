@@ -21,9 +21,18 @@ Thesis
 
 
 [Anind Dey](https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf):
+
 ```
 By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.
 ```
+
+<code>
+By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.
+</code>
+
+<pre>
+By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.
+</pre>
 
 -  Providing Architectural Support for Building Context-Aware Applications. 
     - Thesis statement(TS): 
