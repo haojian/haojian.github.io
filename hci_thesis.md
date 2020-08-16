@@ -19,8 +19,12 @@ Thesis
 <br/>
 <br/>
 
-- [Anind Dey](https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf): Providing Architectural Support for Building Context-Aware Applications. 
-    - Thesis statement(TS): ```By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.```
+
+[Anind Dey](https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf):
+```By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.```
+
+-  Providing Architectural Support for Building Context-Aware Applications. 
+    - Thesis statement(TS): 
     - [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf), [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf)
 
 - [Jeff Heer](https://homes.cs.washington.edu/~jheer/files/jheer-thesis.pdf)
