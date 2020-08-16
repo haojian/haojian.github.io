@@ -2,10 +2,6 @@ Quotes
 ==============
 
 
-```
-Fragility increases rapidly as you squeeze out the last bit of efficiency.    - John D. Cook on Twitter 
-```
-
 
 ```
 "Solving a problem simply means representing it so as to make the solution transparent."
@@ -28,11 +24,7 @@ Curiosity is not enough; you need to have some concerns and, even better, a bit 
 
 
 ```
-“所谓的志同道合，本质上就是个人利益的交集最大。我希望你们不是为了一时激情而来，是因为看到了这家公司对你们的利益才来的。”
-```
-
-```
-获得成功大概就是 一个人到了60多岁 还能appreciate 年轻人的眼光，不是变成老顽固.
+获得成功大概就是 一个人到了60多岁 还能appreciate 年轻人的眼光，不是变成老顽固. - Fanglin
 ```
 
 ```
@@ -95,14 +87,12 @@ Capitalism where income doesn’t start at zero.
 ```
 
 
-```
-Relationship is only difficult when one of you is trying too hard. 
-```
 
 ```
 HCI is used to be about input and output (e.g., mouse). Now, it's more like designing experience rather than devices. 
 -Koji Yatani (https://youtu.be/s6KnmfoYE2I?t=2098)
 ```
+
 
 ```
 “There is a tendency in our field to believe that everything we currently use is a paragon of engineering, rather than a snapshot of our understanding at the time.  We build great myths of spin about how what we have done is the only way to do it to the point that our universities now teach the flaws to students (and professors and textbook authors) who don't know better.” -- John Day
@@ -114,15 +104,6 @@ The servers for Jibo the social robot are apparently shutting down. Multiple own
 ```
 
 
-```
-高立意, 低视角.
-```
-
-
-```
-“All of humanity's problems stem from man's inability to sit quietly in a room alone.”
-- Blaise Pascal, 1654
-```
 
 
 
@@ -140,6 +121,7 @@ Our "age of anxiety" is, in great part, the result of trying to do today's job w
 -余华
 ```
 
+
 ```
 A good paper is saying what you did and showing you did what you say. 
 ```
@@ -156,11 +138,6 @@ The complexity of a lot of the problems [in the world] and the means for solving
 ```
 
 
-```
-Will the continual stream of messages from wearable devices prove to be irresistible, diverting me from my work, or will they amplify my abilities? ... It all depends upon whether we use them to focus and augment our activities or to distract. It is up to us ... to decide which it is to be.
-
-- Don norman, MIT Tech Review, 2013
-```
 
 
 ```
@@ -180,10 +157,12 @@ We hold these truths to be self-evident.
 教授的回答缓慢而深刻，“它什么要像人类吗？它有用就好了？”
 ```
 
+
 ```
 People who are really serious about software should make their own hardware. 
 -Alan Kay
 ```
+
 
 ```
 人类经年累月积累下来的最行之有效的heuristics: 
@@ -228,6 +207,7 @@ Two Things Are Infinite: the Universe and Human Stupidity.
 - Albert Einstein
 ```
 
+
 ```
 You're doing it for what the money says.
 And it says what it says to any player that makes big money.
@@ -235,11 +215,6 @@ That they're worth it.
 - Moneyball
 ```
 
-
-```
-韶华散去春已尽，河风吹老少年郎.  
--苗疆蛊事
-```
 
 
 ```
@@ -253,10 +228,6 @@ I do think you do enormous good. But your power sometimes scares me.
 ```
 
 
-```
-All models are wrong, but some are useful.  - George Box
-```
-
 
 
 ```
@@ -266,11 +237,6 @@ As soon as you saw people as things to be measured, they didn't measure up. What
 ```
 
 
-```
-青春期的人思想极端，很容易不自觉的夸大悲伤或喜悦.
-
-烟头烫胸毛的那句“他依然向往着长岛的雪，向往着潘帕斯的风吟鸟唱，很久以后我才知道，长岛是没有雪的”，
-```
 
 ```
 not try to describe the future, but to define the boundaries within which possible futures must lie. If we regard the ages which stretch ahead of us as an unmapped and unexplored country, what I am attempting to do is to survey its frontiers and to get some idea of its extent. The detailed geography of the interior must remain unknown - until we reach it.
@@ -279,18 +245,17 @@ not try to describe the future, but to define the boundaries within which possib
 
 
 
-```
-I don't buy the is-vs-ought dichotomy here! You can't tell someone "oh, here's data showing you're working less than your peers" in a neutral way—there's automatically judgment attached. Doubly so when you have authority over them, or when you're a public figure. - [Arvind Narayanan on twitter](https://twitter.com/random_walker/status/960587954853957633)
-```
 
 ```
 你愿意到我这儿吃甜食，我回回都给你甜食吃，也未必是健康的。你应该知道一些你已知不分以外的东西。
 - 马未都 于 圆桌派S3E1
 ```
 
+
 ```
 Everyone designs who devises courses of action aimed at changing existing situations into preferred ones. -Herbert Simon
 ```
+
 
 ```
  democracy requires compromise, even when you are 100 percent right. - Obama
@@ -325,11 +290,6 @@ you don’t need to understand everything to understand something.
 
 
 
-```
-Westin defined information privacy as “the claim of individuals, groups or institutions to determine for themselves when, how, and to what extent information about them is communicated to others.”  
-- From Jason
-```
-
 
 ```
 We live in a dangerous world, and I'll do anything to protect my daughters. - a CMU RI professor [Prof. Illah Nourbakhsh's Lecture](https://www.youtube.com/watch?v=giKT8PkCCv4)
@@ -344,6 +304,18 @@ Proper apologies have three parts:
 ```
 
 
+
+```
+演员可以过很多不一样的人生。辩论是思想上的演员。   - 奇葩说
+电影发明之后，人类的生命，比起以前延长了三倍！     - 杨德昌[一一]
+```
+
+
+```
+对小孩子读书是要以鼓励为主，但对于成年人则有义务告诉他现实的残酷，告诉他读书求知是非常困难的一件事，且决无理由自满。
+```
+
+
 ```
 有科学的技能，未必有科学的素质；有科学的素质，未必有科学的品格. - 王小波，沉默的大多数
 
@@ -352,24 +324,10 @@ Proper apologies have three parts:
 
 
 ```
-演员可以过很多不一样的人生。辩论是思想上的演员。   - 奇葩说
-电影发明之后，人类的生命，比起以前延长了三倍！      - 杨德昌[一一]
-```
-
-```
-对小孩子读书是要以鼓励为主，但对于成年人则有义务告诉他现实的残酷，告诉他读书求知是非常困难的一件事，且决无理由自满。在大学还能拿这么多高分一定是考核机制有问题，在贵校从本科开始就不鼓励这种中小学模式了，所谓“非土著”在贵校水土不服，大概也与此有关。
-```
-
-
-
-```
 “我可以影响到两百万人，但是我取了一个只有几十万人（会看的标题），我就只能影响这些人了，好可惜啊，我觉得可惜。”咪蒙说。这是一种传播学写作，她首先需要把自己的声音传达出来，“哪怕是错的”。
 ```
 
 
-```
-我作为一个研究和工程性比较强的一个人来看呢，好的技术其实蛮多的，包括学术界里大家都在造锤子，但是事实上来看好的钉子不太多，钉子是很好的行业应用，如果把好的技术结合到行业应用，让这个技术真正的落地，这是一个极大的挑战，不论在硅谷，在美国别的地方、全世界别的地方都有巨大挑战。
-```
 
 
 ```
