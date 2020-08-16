@@ -7,13 +7,12 @@ Thesis
 
 ## HCI Thesis collections
 
-<img src="photos/diagrams/phd-comics-thesis.gif" width="400px">
+<img src="photos/diagrams/phd-comics-thesis.gif" width="600px">
 
 <br/>
 <br/>
 
-<code>
-"No one reads a Ph.D. thesis. "<br/>
+<code>"No one reads a Ph.D. thesis. "<br/>
 "No. I did."
 </code>
 
