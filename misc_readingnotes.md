@@ -17,6 +17,10 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+Aug. 18, 2020
+* [App stores, trust and anti-trust](https://www.ben-evans.com/benedictevans/2020/8/18/app-stores)
+
+
 Jan. 3, 2019
 
 * [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
@@ -25,7 +29,7 @@ Jan. 3, 2019
 
 Dec. 17, 2019
 
-* [Max Weber, “Science  as  a  Vocation”](http://www.wisdom.weizmann.ac.il/~oded/X/WeberScienceVocation.pdf) 
+* [MaxWeber,“Science as a Vocation”](http://www.wisdom.weizmann.ac.il/~oded/X/WeberScienceVocation.pdf) 
 * [Max Weber, Politics as a Vocation](http://fs2.american.edu/dfagel/www/Class%20Readings/Weber/PoliticsAsAVocation.pdf)
 
 
