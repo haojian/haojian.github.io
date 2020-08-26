@@ -6,7 +6,7 @@ Thesis
 </code>
 
 
-<img src="photos/diagrams/phd-comics-thesis.gif" width="600px">
+<img src="photos/diagrams/phd-comics-thesis.gif" width="400px">
 <br/>
 <br/>
 
