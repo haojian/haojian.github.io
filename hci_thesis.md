@@ -19,7 +19,7 @@ Thesis
 
 
 Anind Dey: [Providing Architectural Support for Building Context-Aware Applications]((https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf)). 
-Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf), [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf),  <a data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">notes</a>
+Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf);  <a data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">notes</a>
 <div class="collapse" id="collapseExample">
    <p></p>
 </div>
@@ -37,10 +37,11 @@ Michael Bernstein: [Crowd-Powered Systems](https://hci.stanford.edu/publications
 Bill Schilit: [A System Architecture for Context-Aware Mobile Computing](https://sites.google.com/site/schilit/schilit-thesis.pdf?attredirects=0)
 <pre>This thesis contends that traditional software approaches are ill-suited for building mobile distributed computing software. System dynamics result in software that must be manually reconfigured when features change, and software that is constantly mis-tuned for the current computing environment. This thesis proposes an architecture for notifying applications of the changing computing environment that is simple, fault tolerant, efficient, scalable, and feasible to implement across a range of computing platforms.</pre>
 
+
+Jason Hong: [An Architecture for Privacy-Sensitive Ubiquitous Computing](http://www.cs.cmu.edu/~jasonh/publications/jihdiss.pdf); [infrastructure, framework, library, toolkit](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.6574&rep=rep1&type=pdf), [Mobisys 04](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
+
 Scott Klemmer: [Tangible User Interface Input: Tools and Techniques](https://hci.stanford.edu/publications/2004/klemmer-dissertation/KlemmerDissertation.pdf) 
 
-Jason Hong: [An Architecture for Privacy-Sensitive Ubiquitous Computing ](http://www.cs.cmu.edu/~jasonh/publications/jihdiss.pdf)
-[infrastructure, framework, library, toolkit](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.6574&rep=rep1&type=pdf), [Mobisys 04](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
 
 Sauvik Das: [Social Cybersecurity: Reshaping Security Through An Empirical Understanding of Human Social Behavior](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-17-100.pdf)
 <pre>Social influences strongly affect cybersecurity behaviors, and it is possible to encourage better cybersecurity behaviors by designing security systems that are more social.
