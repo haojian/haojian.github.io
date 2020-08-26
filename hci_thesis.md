@@ -27,7 +27,6 @@ Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd27
 By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.
 </pre>
 
-
 Jeff Heer: [Supporting Asynchronous Collaboration for Interactive Visualization](https://homes.cs.washington.edu/~jheer/files/jheer-thesis.pdf) 
 <pre>This thesis focuses on the central problem of how to design visualization systems that support and catalyze social sensemaking by analysts and decision-makers collaborating asynchronously. </pre>
 
@@ -61,12 +60,12 @@ The objective of this thesis is to demonstrate how integrating data-driven insig
 </pre>
 
 
-Polo Chau [Data Mining Meets HCI: Making Sense of Large Graphs](https://poloclub.github.io/polochau/papers/polo-chau-thesis.pdf)
+Polo Chau: [Data Mining Meets HCI: Making Sense of Large Graphs](https://poloclub.github.io/polochau/papers/polo-chau-thesis.pdf)
 <pre>
 We bridge Data Mining and Human-Computer Interaction (HCI) to synthesize new methods and systems that help people understand and interact with massive graphs with billions of nodes and edges, in three inter-related thrusts: (1) Attention Routing, (2) Mixed-Initiative Sense making, and (3) Scaling Up.
 </pre>
 
-Ian Li [Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-11-106.pdf)
+Ian Li: [Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-11-106.pdf)
 <pre>
 A tool that allows users to associate contextual information with behavioral information can better reveal factors within one's life that affect behavior, compared to existing systems that only show behavioral information.
 </pre>
