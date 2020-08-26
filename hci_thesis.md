@@ -55,13 +55,13 @@ Sauvik Das: [Social Cybersecurity: Reshaping Security Through An Empirical Under
 </pre>
 
 
-Blase Ur: [Supporting Password-Security Decisions with Data](https://www.blaseur.com/phdthesis.pdf): 
+Blase Ur: [Supporting Password-Security Decisions with Data](https://www.blaseur.com/phdthesis.pdf)
 <pre>
 The objective of this thesis is to demonstrate how integrating data-driven insights about how users create and how attackers guess passwords into a tool that presents real-time feedback can equip users to make better passwords.
 </pre>
 
 
-Polo Chau [Data Mining Meets HCI: Making Sense of Large Graphs](https://poloclub.github.io/polochau/papers/polo-chau-thesis.pdf): 
+Polo Chau [Data Mining Meets HCI: Making Sense of Large Graphs](https://poloclub.github.io/polochau/papers/polo-chau-thesis.pdf)
 <pre>
 We bridge Data Mining and Human-Computer Interaction (HCI) to synthesize new methods and systems that help people understand and interact with massive graphs with billions of nodes and edges, in three inter-related thrusts: (1) Attention Routing, (2) Mixed-Initiative Sense making, and (3) Scaling Up.
 </pre>
