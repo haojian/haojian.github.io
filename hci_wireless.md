@@ -1,5 +1,11 @@
-USRP 
-=========
+## Wireless
+
+- [Antenna Radiating Patterns explained](https://www.youtube.com/watch?v=twNVEyjbKRY)
+    - very nice explanation regarding omni/directional antenna.
+
+
+
+## USRP 
 
 Environment setup:
 1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).

@@ -1,10 +1,7 @@
-Mobile Audio 
+Audio Processing 
 ==============
 
-## Devices
 
-- iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front) [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
-- [Determining the native buffer size and sample rate for OpenSL ES](https://play.google.com/store/apps/details?id=com.levien.audiobuffersize)
 
 
 ## Android 
@@ -77,6 +74,10 @@ Mobile Audio
 - [JUC is a wide-ranging C++ class library for building rich cross-platform applications and plugins for all the major operating systems.](http://www.juce.com/)
 
 
+## Devices
+
+- iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front) [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
+- [Determining the native buffer size and sample rate for OpenSL ES](https://play.google.com/store/apps/details?id=com.levien.audiobuffersize)
 
 - - -
 

@@ -16,7 +16,4 @@ To achieve efficient outcomes, marketplaces need make markets sufficiently
 
 ★★★★ [The aftermath](https://www.imdb.com/title/tt5977276/)
 
-```
-I watched the movie on a Delta flight. It touches me from many perspectives. I admire the colonel's integrity but feel sad for his behavior in the intimate relationship. The immersive passive atomosphere somehow reminds Hemingway's book [the sun also rises].
-```
 

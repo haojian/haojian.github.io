@@ -105,8 +105,6 @@ AWS
 - [Mongodb on AWS EC2](http://docs.mongodb.org/ecosystem/platforms/amazon-ec2/)
 - [Common commands in MongoDB](http://sling2007.blog.163.com/blog/static/847327132012911113042620/)
 
-## Money money me
-- [free aws credit](http://mooc.guokr.com/post/611730/)
 
 
 ## UCloud
