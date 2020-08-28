@@ -99,11 +99,6 @@ HCI is used to be about input and output (e.g., mouse). Now, it's more like desi
 ```
 
 
-```
-The servers for Jibo the social robot are apparently shutting down. Multiple owners report that Jibo himself has been delivering the news: "Maybe someday when robots are way more advanced than today, and everyone has them in their homes, you can tell yours that I said hello."
-```
-
-
 
 
 

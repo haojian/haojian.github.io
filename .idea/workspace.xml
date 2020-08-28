@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7e13a8-4604-4fd8-91e7-c7a210028f32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_advertising.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_algorithm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_architecture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_aws.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_aws.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_backend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_database.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_database.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_deeplearning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_designpattern.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_devtools.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_docker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_ghost.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_mongodb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_opensource.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_radio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_redis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_security.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_security.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_usrp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_web.md" beforeDir="false" afterPath="$PROJECT_DIR$/eng_web.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hci_being_a_faculty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hci_audio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hci_sound.md" beforeDir="false" afterPath="$PROJECT_DIR$/hci_sound.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_audio.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +34,7 @@
       <updated>1597542985746</updated>
       <workItem from="1597542987564" duration="2708000" />
       <workItem from="1598408873112" duration="1190000" />
-      <workItem from="1598550364452" duration="1333000" />
+      <workItem from="1598550364452" duration="1673000" />
     </task>
     <servers />
   </component>
