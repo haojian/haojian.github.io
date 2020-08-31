@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7e13a8-4604-4fd8-91e7-c7a210028f32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hci_audio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hci_sound.md" beforeDir="false" afterPath="$PROJECT_DIR$/hci_sound.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,8 @@
       <workItem from="1597542987564" duration="2708000" />
       <workItem from="1598408873112" duration="1190000" />
       <workItem from="1598550364452" duration="1673000" />
+      <workItem from="1598882735919" duration="40000" />
+      <workItem from="1598882786259" duration="8000" />
     </task>
     <servers />
   </component>
