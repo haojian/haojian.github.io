@@ -18,9 +18,8 @@ Thesis
 
 
 
-Anind Dey: [Providing Architectural Support for Building Context-Aware Applications]((https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf)). 
-Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf);  
-[notes](http://haojian.github.io/notes/notes-dey-thesis.pdf)
+Anind Dey: [Providing Architectural Support for Building Context-Aware Applications]((https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf)).
+Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf); [notes](http://haojian.github.io/notes/notes-dey-thesis.pdf)
 <!-- <a data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">notes</a>
 <div class="collapse" id="collapseExample">
    <p></p>
