@@ -19,7 +19,7 @@ Thesis
 
 
 Anind Dey: [Providing Architectural Support for Building Context-Aware Applications]((https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf)).
-Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf); [notes](http://haojian.github.io/notes/notes-dey-thesis.pdf)
+Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf); [my notes](http://haojian.github.io/notes/notes-dey-thesis.pdf);
 <pre>
 By identifying, implementing and supporting the right abstractions and services for handling context, we can construct a framework that makes it easier to design, build and evolve context-aware applications.
 </pre>
