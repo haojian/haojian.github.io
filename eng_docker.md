@@ -1,10 +1,11 @@
-###Docker
+### Docker
 
 
 ##### common commands
 
-List docker images: `sudo docker image ls`
-list docker containers: `sudo docker ps`
+List docker images: `docker image ls`
+list docker containers: `docker ps -a`
+remove docker container: `docker rm ` 
 
 start a container from an image `sudo docker run -d -p 8090:8080 [imagename]]`
 
