@@ -13,17 +13,29 @@ Thesis
 
 - [Type of phd thesis (from Allen Newell)](https://www.eecs.harvard.edu/htk/phdadvice/#3)
 
-```Opens up new area
+```
+Opens up new area
+
 Provides unifying framework
+
 Resolves long-standing question
+
 Thoroughly explores an area
+
 Contradicts existing knowledge
+
 Experimentally validates theory
+
 Produces an ambitious system
+
 Provides empirical data
+
 Derives superior algorithms
+
 Develops new methodology
+
 Develops a new tool
+
 Produces a negative result
 ``` 
 
@@ -31,8 +43,6 @@ Produces a negative result
 
 
 #### A collection of hci phd theses
-
-
 
 Anind Dey: [Providing Architectural Support for Building Context-Aware Applications]((https://www.cc.gatech.edu/fce/ctk/pubs/dey-thesis.pdf).
 Other docs: [proposal](https://pdfs.semanticscholar.org/50c3/a22313d0eb9398afd2730cc6b5f8c2aaa8ad.pdf); [research paper](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-23.pdf); [notes](http://haojian.github.io/notes/notes-dey-thesis.pdf);
