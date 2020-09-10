@@ -1,16 +1,32 @@
 Thesis
 =========================
 
-<code>"No one reads a Ph.D. thesis. "<br/>
+<!-- <code>"No one reads a Ph.D. thesis. "<br/>
 "No. I did."
-</code>
+</code> -->
 
 
 <img src="photos/diagrams/phd-comics-thesis.gif" width="400px">
 <br/>
 <br/>
 
-- [Type of phd thesis](https://www.eecs.harvard.edu/htk/phdadvice/#3)
+
+- [Type of phd thesis (from Allen Newell)](https://www.eecs.harvard.edu/htk/phdadvice/#3)
+
+```Opens up new area
+Provides unifying framework
+Resolves long-standing question
+Thoroughly explores an area
+Contradicts existing knowledge
+Experimentally validates theory
+Produces an ambitious system
+Provides empirical data
+Derives superior algorithms
+Develops new methodology
+Develops a new tool
+Produces a negative result
+``` 
+
 - [What is your thesis?](http://web.cs.ucla.edu/~palsberg/shivers.html)
 
 
