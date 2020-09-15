@@ -85,7 +85,7 @@ Arvind Satyanarayan: [The Reactive Vega Stack: Declarative Interaction Design fo
 This thesis introduces the Reactive Vega stack: two new declarative languages for interactive visualization that decouple specification (the what) from execution (the how).
 </pre>
 
-#### No-HCI theses that inspires me.
+#### No-HCI theses inspired me.
 
 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 <pre>
