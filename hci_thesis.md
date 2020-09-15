@@ -80,6 +80,18 @@ A tool that allows users to associate contextual information with behavioral inf
 </pre>
 
 
+Arvind Satyanarayan: [The Reactive Vega Stack: Declarative Interaction Design for Data Visualization](https://arvindsatya.com/files/thesis-augmented.pdf)
+<pre>
+This thesis introduces the Reactive Vega stack: two new declarative languages for interactive visualization that decouple specification (the what) from execution (the how).
+</pre>
+
+#### No-HCI theses that inspires me.
+
+[Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+<pre>
+REST emphasizes scalability of component interactions, generality of interfaces, independent deployment of components, and intermediary components to reduce interaction latency, enforce security, and encapsulate legacy systems.
+</pre>
+
 
 
 
