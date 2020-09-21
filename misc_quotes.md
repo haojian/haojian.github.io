@@ -2,6 +2,10 @@ Quotes
 ==============
 
 
+```
+Be who you needed when you were younger. 
+```
+
 
 ```
 "Solving a problem simply means representing it so as to make the solution transparent."

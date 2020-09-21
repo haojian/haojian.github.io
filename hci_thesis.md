@@ -87,10 +87,13 @@ This thesis introduces the Reactive Vega stack: two new declarative languages fo
 
 #### No-HCI theses inspired me.
 
-[Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+Roy Thomas Fielding: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 <pre>
 REST emphasizes scalability of component interactions, generality of interfaces, independent deployment of components, and intermediary components to reduce interaction latency, enforce security, and encapsulate legacy systems.
 </pre>
+
+
+Jean Yang: [Preventing Information Leaks with Policy-Agnostic Programming](http://www.cs.cmu.edu/~jyang2/papers/jeanyang_phd_thesis.pdf)
 
 
 
