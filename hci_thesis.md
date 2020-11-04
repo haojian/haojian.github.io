@@ -85,6 +85,10 @@ Arvind Satyanarayan: [The Reactive Vega Stack: Declarative Interaction Design fo
 This thesis introduces the Reactive Vega stack: two new declarative languages for interactive visualization that decouple specification (the what) from execution (the how).
 </pre>
 
+
+Stefanie Mueller: [Interacting with personal fabrication devices](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/10090/file/mueller_diss.pdf)
+
+
 #### No-HCI theses inspired me.
 
 Roy Thomas Fielding: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
@@ -94,6 +98,10 @@ REST emphasizes scalability of component interactions, generality of interfaces,
 
 
 Jean Yang: [Preventing Information Leaks with Policy-Agnostic Programming](http://www.cs.cmu.edu/~jyang2/papers/jeanyang_phd_thesis.pdf)
+
+
+
+Shyamnath Gollakota: [Embracing Interference in Wireless Systems](https://dspace.mit.edu/handle/1721.1/79213)
 
 
 

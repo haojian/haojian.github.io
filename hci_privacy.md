@@ -85,6 +85,7 @@ alleged that Google used the information of consumers who signed up for Gmail to
 
 - [Values and Ethics in Human-Computer Interaction](https://www.nowpublishers.com/article/Details/HCI-073)
 - [The corporate cultivation of digital resignation](https://journals.sagepub.com/doi/full/10.1177/1461444819833331?journalCode=nmsa)
+- [we can extrapolate the $47/year number to estimate the value of an average consumer’s personal data to the broader digital advertising industry](https://medium.com/wibson/how-much-is-your-data-worth-at-least-240-per-year-likely-much-more-984e250c2ffa)
 
 
 ###  Misc

@@ -26,6 +26,7 @@ sudo docker-compose up
 ```
 
 
+[Create a new image](https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/)
 
 
 ##### FAQ on MAC:
