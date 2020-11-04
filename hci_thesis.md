@@ -87,7 +87,10 @@ This thesis introduces the Reactive Vega stack: two new declarative languages fo
 
 
 Stefanie Mueller: [Interacting with personal fabrication devices](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/10090/file/mueller_diss.pdf)
-
+<pre>
+We draw inspiration from personal computing and argue that the evolution
+of personal fabrication may resemble the evolution of personal computing.
+</pre>
 
 #### No-HCI theses inspired me.
 
@@ -98,11 +101,16 @@ REST emphasizes scalability of component interactions, generality of interfaces,
 
 
 Jean Yang: [Preventing Information Leaks with Policy-Agnostic Programming](http://www.cs.cmu.edu/~jyang2/papers/jeanyang_phd_thesis.pdf)
+<pre>
+As a solution to the problem of information leaks, I propose a policy-agnostic programming paradigm that enforces security and privacy policies by construction.
+</pre>
 
 
 
 Shyamnath Gollakota: [Embracing Interference in Wireless Systems](https://dspace.mit.edu/handle/1721.1/79213)
-
+<pre>
+This dissertation takes an alternate approach: Instead of viewing interference as an inherently counterproductive phenomenon that should to be avoided, we design practical systems that transform interference into a harmless, and even a beneficial phenomenon.
+</pre>
 
 
 
