@@ -92,6 +92,12 @@ We draw inspiration from personal computing and argue that the evolution
 of personal fabrication may resemble the evolution of personal computing.
 </pre>
 
+Adriana Schulz: [Computational Design for the Next Manufacturing Revolution](https://homes.cs.washington.edu/~adriana/website/aschulz_thesis.pdf)
+<pre>
+Efficient design tools for functional mechanisms can be developed by constraining design spaces using data-driven methods and then defining efficient performance-driven search algorithms on these reduced spaces.
+</pre>
+
+
 #### No-HCI theses inspired me.
 
 Roy Thomas Fielding: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
