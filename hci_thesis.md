@@ -118,7 +118,11 @@ Shyamnath Gollakota: [Embracing Interference in Wireless Systems](https://dspace
 This dissertation takes an alternate approach: Instead of viewing interference as an inherently counterproductive phenomenon that should to be avoided, we design practical systems that transform interference into a harmless, and even a beneficial phenomenon.
 </pre>
 
+Matei Alexandru Zaharia: [An Architecture for Fast and General Data Processing on Large Clusters](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf)
 
+<pre>
+A common execution model based on resilient distributed datasets can efficiently support diverse distributed computations.
+</pre>
 
 <!-- 11. Gierad Laput: http://www.gierad.com/thesis-draft.pdf
 12. Chris Harrison: 
