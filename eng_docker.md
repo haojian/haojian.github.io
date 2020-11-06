@@ -3,88 +3,54 @@
 
 ##### common commands
 
-List docker images: `docker image ls`
-list docker containers: `docker ps -a`
-remove docker container: `docker rm ` 
+-List docker images: `docker image ls`
+- list docker containers: `docker ps -a`
+- remove docker container: `docker rm ` 
+- To delete all the docker containers: `docker rm $(docker ps -a -q)`
+- To delete all the images: `docker rmi $(docker images)`
 
-start a container from an image `sudo docker run -d -p 8090:8080 [imagename]]`
+- start a container from an image `sudo docker run -d -p 8090:8080 [imagename]]`
+	- 8080 is the port of the docker instance.
+	- 8090 is the port of the host machine. 
+	- [Docker port mapping](https://opskumu.gitbooks.io/docker/content/chapter5.html)
 
-[start tutorial](https://docs.docker.com/get-started/)
-
-##### Basic usages on ubuntu
-
-Basic docker configuration:
-```
-sudo service docker start
-export DOCKER_HOST=127.0.0.1:2375
-```
-
-compose a docker from a dockerfile:
-
-```
-sudo docker-compose up
-```
-
-
-[Create a new image](https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/)
-
-
-##### FAQ on MAC:
-- Host is not running.
-```
-bogon:tensorflow haojian$ eval "$(docker-machine env default)"
-Error checking TLS connection: Host is not running
-```
-Solutions: 
-```
-it seems need to start docker-machine again.
-
-$ docker-machine start default
-$ docker-machine env default
-$ eval $(docker-machine env default)
-works for me
-```
-
-- [Save vs Export in Docker](https://my.oschina.net/zjzhai/blog/225112)
-
-- [Docker port mapping](https://opskumu.gitbooks.io/docker/content/chapter5.html)
-- Website hosting
-	- `docker run -p 8080:8080` -> django: "python manage.py runserver 0.0.0.0:8080" -> can be visit at: {docker-machine ip default} = 192.168.99.100` -> http://192.168.99.100:8080/
 
 - for projects with dockerfile already:
 	- `docker build -t  pyannote-video .`  #pyannote-video is the docker image name
 	- `sudo docker run -d -p 8090:8080 pyannote-video`
 	- After few seconds, open http://<host>:8090 to see the welcome page.
-		
-		
-		
-- install docker on aws ubuntu 
-	- [Docker install on EC2 Ubuntu 14.04](http://www.bogotobogo.com/DevOps/Docker/Docker_Install_On_EC2_Ubuntu.php)
-	- [Official guidance](https://docs.docker.com/linux/step_one/) **works better**
-	
-	
-- To start Docker in Mac
-	- open quick start terminal from spotsearch
-	- eval "$(docker-machine env default)"
-	
-	
-- failed: port is already allocated.
-	- `sudo service docker restart`
-	
-- Is the docker daemon running on this host
-	- `sudo usermod -aG docker ubuntu` for aws ubuntu. 
-	- It's mainly because of the user permission issue. need to check if "sudo" access works well. [Reference][https://docs.docker.com/v1.5/installation/ubuntulinux/]
-	
-	
+
+
 - AWS run a python3 docker:
 	- benefits over the virtualenv: no worries about lxml libraries & python-dev.
 	- `docker run -i -t micktwomey/python3.4 ` [reference](https://github.com/micktwomey/docker-python3.4)
 	
-	
-- To delete all the docker containers: `docker rm $(docker ps -a -q)`
-- To delete all the images: `docker rmi $(docker images)`
-	
+##### Resources
+
 - [cheat sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
+
+
+[start tutorial](https://docs.docker.com/get-started/)
+
+
+
+
+[Create a new image](https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/)
+
+
+- [Save vs Export in Docker](https://my.oschina.net/zjzhai/blog/225112)
+
+
+
+- install docker on aws ubuntu 
+	- [Docker install on EC2 Ubuntu 14.04](http://www.bogotobogo.com/DevOps/Docker/Docker_Install_On_EC2_Ubuntu.php)
+	- [Official guidance](https://docs.docker.com/linux/step_one/) **works better**
+	
+
+	
+
+
+	
 
 - To keep the docker running at the background in the server 
 	- use screen before start a container and then start a container with an interactive bash.
