@@ -3,7 +3,7 @@
 
 ##### common commands
 
--List docker images: `docker image ls`
+- List docker images: `docker image ls`, `docker images`
 - list docker containers: `docker ps -a`
 - remove docker container: `docker rm ` 
 - To delete all the docker containers: `docker rm $(docker ps -a -q)`
@@ -25,12 +25,19 @@
 	- benefits over the virtualenv: no worries about lxml libraries & python-dev.
 	- `docker run -i -t micktwomey/python3.4 ` [reference](https://github.com/micktwomey/docker-python3.4)
 	
+
+##### Docker hub
+
+- create a docker image with a docker file: `docker build -t [image name] .`
+	- with a customized docker files: `docker build -t mysuperimage -f MyDockerfile .` 
+- [Create a new image based on a docker file and upload it to the docker hub](https://docs.sevenbridges.com/docs/upload-your-docker-image-with-a-dockerfile)
+
+
+
 ##### Resources
 
 - [cheat sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
-
-
-[start tutorial](https://docs.docker.com/get-started/)
+- [start tutorial](https://docs.docker.com/get-started/)
 
 
 
