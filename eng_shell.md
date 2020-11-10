@@ -38,6 +38,12 @@ To start a new session with a name
 screen -S your_session_name
 ```
 
+Kill a screen session:
+```
+screen -S your_session_name -X quit
+```
+
+
 <!-- -->
 
 
