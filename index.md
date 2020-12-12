@@ -33,6 +33,7 @@ Research
 - [Latex](hci_latex.md)
 - [Privacy](hci_privacy.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
+- [Research talks](hci_researchtalks.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Speech](hci_speechrec.md)

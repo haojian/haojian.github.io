@@ -97,6 +97,7 @@ Adriana Schulz: [Computational Design for the Next Manufacturing Revolution](htt
 Efficient design tools for functional mechanisms can be developed by constraining design spaces using data-driven methods and then defining efficient performance-driven search algorithms on these reduced spaces.
 </pre>
 
+Amy Ko: [Asking and answering questions about the causes of software behaviors](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf) [thesis proposal](https://faculty.washington.edu/ajko/papers/Ko2006ThesisProposal.pdf) [Job talk](https://faculty.washington.edu/ajko/slides/Ko2008JobTalk.pdf)
 
 #### No-HCI theses inspired me.
 

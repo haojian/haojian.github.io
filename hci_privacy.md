@@ -10,6 +10,10 @@
 
 #### Privacy 101
 
+- [The Right to Privacy (article)](https://en.wikipedia.org/wiki/The_Right_to_Privacy_(article))
+- [Altman's Privacy regulation theory](https://en.wikipedia.org/wiki/Privacy_regulation_theory)
+- [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
+
 - Privacy v.s. Security
     - A user's bank account is hacked, the hacker takes the user's money. 
     - A user's friend knows the password and logs into the user's bank account to check the spending history. 
