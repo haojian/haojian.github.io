@@ -6,6 +6,7 @@ Git commands
 
 
 - [Git LFS](https://git-lfs.github.com/)
+- [Serverless Git LFS for Game Development](https://alanedwardes.com/blog/posts/serverless-git-lfs-for-game-dev/)
 
 **merge conflicts**
 
