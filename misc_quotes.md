@@ -120,6 +120,10 @@ Our "age of anxiety" is, in great part, the result of trying to do today's job w
 -余华
 ```
 
+```
+崔屹告诉 DeepTech：“斯坦福能源中心是全世界最顶级的能源中心之一。未来我有四方面计划，第一是发明革命性清洁能源科技；第二是做好科技产业化；第三是提高学生毕业后对社会的影响力；第四是帮助制定有影响力的能源政策，以对能源经济起到指导作用。”
+```
+
 
 ```
 A good paper is saying what you did and showing you did what you say. 

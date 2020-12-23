@@ -31,6 +31,9 @@
 - [The Hidden Persuaders](https://www.amazon.com/Hidden-Persuaders-Vance-Packard/dp/B000GRRRZS/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
+#### Why privacy is not important
+
+- [There are bigger things to worry about.](https://www.reddit.com/r/technology/comments/a0ngtx/people_who_buy_smart_speakers_have_given_up_on/)
 
 #### UbiComp/mobile privacy.
 
