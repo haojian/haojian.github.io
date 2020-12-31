@@ -7,11 +7,9 @@ Research talks
 
 #### Inspiring research talks 
 
-Hans Rosling: [The best stats you've ever seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 
 Jeff Heer: [A brief history of data visualization](https://www.youtube.com/watch?v=N00g9Q9stBo)
-<pre> 
-The visualization pipelines have been consistent behind many different techniques: (raw data -[data transformation]-> data tabels -[visual encodings]-> visual structures -[view transformations]-> views). 
+<pre> The visualization pipelines have been consistent behind many different techniques: (raw data -[data transformation]-> data tabels -[visual encodings]-> visual structures -[view transformations]-> views). 
 </pre>
 
 
@@ -47,6 +45,9 @@ Juho Kim: [Learnersourcing: Improving Learning with Collective Learner Activity]
 </pre>
 
 #### Interesting research talks but not in my area. 
+
+Hans Rosling: [The best stats you've ever seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+
 
 Aditya Vashistha: [Social Computing for Social Good in Low-Resource Environments](https://www.youtube.com/watch?v=BVF3tryFb2g)
 
