@@ -5,7 +5,14 @@ Research talks
 </code> -->
 
 
-#### A collection of research talks
+#### Inspiring research talks 
+
+Aditya Vashistha: [Social Computing for Social Good in Low-Resource Environments](https://www.youtube.com/watch?v=BVF3tryFb2g)
+
+<pre>Deeply impressed by Aditya's passion through the presentation.</pre>
+
+
+Elena L. Glassman: [Clustering and Visualizing Solution Variation in Massive Programming Classes](https://www.youtube.com/watch?v=Pt-DMk1YRJ4)
 
 Sumit Gulwani: [programming by examples: pl meets ml](https://youtu.be/-IjU2-Pi6gg?t=2480)
 
@@ -15,7 +22,7 @@ Sumit Gulwani: [programming by examples: pl meets ml](https://youtu.be/-IjU2-Pi6
 
 Amy Ko: [Big ideas behind the Whyline](https://www.youtube.com/watch?v=lx7g-T10WxQ)
 <pre>
-A nice summary of whyline: (1) Debugging is slow becuase developers iteratively test brittle hypotheses about what caused a failure by manually collecting runtime data. (2)Debugging would be faster if developers worked backwards from well-understood failure to cause, relying on dynamic dependencies precisely gathered by a tool. 
+A nice summary of whyline: (1) Debugging is slow becuase developers iteratively test brittle hypotheses about what caused a failure by manually collecting runtime data. (2) Debugging would be faster if developers worked backwards from well-understood failure to cause, relying on dynamic dependencies precisely gathered by a tool. 
 
 Tools <=> big ideas <=> key insights.
 </pre>

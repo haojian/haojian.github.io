@@ -98,6 +98,15 @@ Efficient design tools for functional mechanisms can be developed by constrainin
 </pre>
 
 Amy Ko: [Asking and answering questions about the causes of software behaviors](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf) [thesis proposal](https://faculty.washington.edu/ajko/papers/Ko2006ThesisProposal.pdf) [Job talk](https://faculty.washington.edu/ajko/slides/Ko2008JobTalk.pdf)
+<pre>
+Debugging would be faster if developers worked backwards from well-understood failure to cause, relying on dynamic dependencies precisely gathered by a tool. 
+</pre>
+
+Robert C. Miller: [Lightweight Structure in Text](http://www.cs.cmu.edu/~rcm/papers/thesis/)
+<pre>
+Lightweight structure (model, library, algebra) enables efficient composition and reuse of structure abstractions defined by various kinds of patterns and parsers, bringing improvements to pattern
+matching, text processing, web automation, repetitive text editing, inference of patterns from examples, and error detection.
+</pre>
 
 #### No-HCI theses inspired me.
 
