@@ -7,12 +7,15 @@ Research talks
 
 #### Inspiring research talks 
 
-Aditya Vashistha: [Social Computing for Social Good in Low-Resource Environments](https://www.youtube.com/watch?v=BVF3tryFb2g)
+Jeff Heer: [A brief history of data visualization](https://www.youtube.com/watch?v=N00g9Q9stBo)
+<pre>This talk reminds me a similar presentation Fanglin made in the Cog Mini class.</pre>
 
-<pre>Deeply impressed by Aditya's passion through the presentation.</pre>
+
+Aditya Nori: [Probabilistic Programming: Algorithms, Applications and Synthesis](https://www.youtube.com/watch?v=F4sFD9RyJrs)
+<pre> Two challenges: (1) bringing data into programs (numerous new sources, conversion); (2) reasoning with data. Two benefits of probabilistic programming: (1) hides complexity of inference techniques; (2) requires much less expertise to write and experiment with ML models.
+</pre>
 
 
-Elena L. Glassman: [Clustering and Visualizing Solution Variation in Massive Programming Classes](https://www.youtube.com/watch?v=Pt-DMk1YRJ4)
 
 Sumit Gulwani: [programming by examples: pl meets ml](https://youtu.be/-IjU2-Pi6gg?t=2480)
 
@@ -33,3 +36,16 @@ Arvind Satyanayaran, [Declarative Interactive Design for Data Visualization](htt
     Declarative primitives for interaction: 
     (1) Model user input as streaming data; (2) extend techniques from functional reactive programming (FRP) and streaming database; (3) when events occur, interactive state is automatically recomputed. Data values are recalculated, and the visualization is re-rendered. 
 </pre>
+
+Juho Kim: [Learnersourcing: Improving Learning with Collective Learner Activity](https://www.slideshare.net/mcpanic/20150730-thesisdefenseweb)
+
+<pre>
+    The last few slides on Learning @ Scale inspired me to get a Ph.D.. 
+</pre>
+
+#### Interesting research talks but not in my area. 
+
+Aditya Vashistha: [Social Computing for Social Good in Low-Resource Environments](https://www.youtube.com/watch?v=BVF3tryFb2g)
+
+
+Elena L. Glassman: [Clustering and Visualizing Solution Variation in Massive Programming Classes](https://www.youtube.com/watch?v=Pt-DMk1YRJ4)
