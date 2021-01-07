@@ -7,6 +7,10 @@ Research talks
 
 #### Inspiring research talks 
 
+Junchen Jiang: [Enabling Data-Driven Optimization of Quality of Experience in Internet Applications](https://www.youtube.com/watch?v=VRz9EYibEz4&t=1329s)
+<pre>
+    Increasing complex networked system + means to collect & process massive data => Optimizing the network streaming through a data driven approach.
+</pre>
 
 Jeff Heer: [A brief history of data visualization](https://www.youtube.com/watch?v=N00g9Q9stBo)
 <pre> The visualization pipelines have been consistent behind many different techniques: (raw data -[data transformation]-> data tabels -[visual encodings]-> visual structures -[view transformations]-> views). 
