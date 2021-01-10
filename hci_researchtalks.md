@@ -7,6 +7,15 @@ Research talks
 
 #### Inspiring research talks 
 
+Michael Stonebraker: [Top Ten Big Data Blunders](https://www.youtube.com/watch?v=4SK8jdBhGNI)
+<pre>
+    (1) Not Planning to Move EVERYTHING to the Cloud. 
+    (2) Outsourcing your new stuff to Palantir, IBM, Mu Sigma.
+    (3) Succumbing to the "Innovator's Dilemma"
+    (4) Working for a Company That is not Trying to do Something about the "Sins of the Past"
+</pre>
+
+
 Junchen Jiang: [Enabling Data-Driven Optimization of Quality of Experience in Internet Applications](https://www.youtube.com/watch?v=VRz9EYibEz4&t=1329s)
 <pre>
     Increasing complex networked system + means to collect & process massive data => Optimizing the network streaming through a data driven approach.
@@ -46,6 +55,18 @@ Juho Kim: [Learnersourcing: Improving Learning with Collective Learner Activity]
 
 <pre>
     The last few slides on Learning @ Scale inspired me to get a Ph.D.. 
+</pre>
+
+
+
+Dave Patterson: [A new golden age for computer architecture](https://www.youtube.com/watch?v=ctwj53r07yI)
+<pre>
+    There are many versions of this talk. I like this one most. 
+
+    (1) Simple, verifiable, alternable, free and open architecture and implemetations. That's also something I want achieve through Peekaboo. 
+    
+    (2) Agile hardware development. Small teams do short development between working but incomplete prototypes and get customer feedback per step. A very nice summarization of the "agile" part. 
+    
 </pre>
 
 #### Interesting research talks but not in my area. 
