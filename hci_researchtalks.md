@@ -7,6 +7,15 @@ Research talks
 
 #### Inspiring research talks 
 
+Michael Stonebraker: [Relational DBMS - 2014 ACM A.M. Turing Award Lecture](https://youtu.be/BbGeKi6T6QI?t=568)
+
+<pre>
+(1) "We tried RDBMS on X; it didn't work, so we added Y to the relational model." => Abstract data types
+(2) "I hate IF-THEN rule system." => Order dependent & hard to understand. => the complexity bounds.
+(3) A good idea worthes 10 years. => Talking to users, hanging around a critical environment of smart people. 
+</pre>
+
+
 Michael Stonebraker: [Top Ten Big Data Blunders](https://www.youtube.com/watch?v=4SK8jdBhGNI)
 <pre>
     (1) Not Planning to Move EVERYTHING to the Cloud. 
