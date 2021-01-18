@@ -7,6 +7,26 @@ Research talks
 
 #### Inspiring research talks 
 
+
+
+
+
+Meghan Clark: [Devices and Data and Agents, Oh My: How Smart Home Abstractions Affect End-User Mental Models](http://meghanclark.us/content/clark_abstractions_ubicomp17.pptx)
+
+<pre>
+A thoughtful discussion between the coneptual model and mental model.
+</pre>
+
+Jim Gray, 1998 Turing Lecture: [What Next? A Few Remaining Problems in Information Technology](https://dl.acm.org/ft_gateway.cfm?id=2159561&type=ppt)
+
+<pre>
+    What are examples of long-term research goals we have in mind? (1) Simple to state (2) Not obvious how to do it (3) clear benefit (4) progress and solution is testable (4) Can be broken into smaller steps.
+
+    Slides: 32. Why information moves to cyberspace? 
+    Many insightful discussions on cloud computing. 
+</pre>
+
+
 Michael Stonebraker: [Relational DBMS - 2014 ACM A.M. Turing Award Lecture](https://youtu.be/BbGeKi6T6QI?t=568)
 
 <pre>
@@ -79,6 +99,9 @@ Dave Patterson: [A new golden age for computer architecture](https://www.youtube
 </pre>
 
 #### Interesting research talks but not in my area. 
+
+
+[Georges Polti's 36 Dramatic Situations](http://changingminds.org/disciplines/storytelling/plots/polti_situations/polti_situations.htm)
 
 Hans Rosling: [The best stats you've ever seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 
