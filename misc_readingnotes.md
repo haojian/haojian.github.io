@@ -17,6 +17,11 @@ In progress and to do list:
 - [Financial Consumer Protection and New Forms of Data Processing Beyond Credit Reporting](http://documents.worldbank.org/curated/en/677281542207403561/pdf/132035-WP-FCP-New-Forms-of-Data-Processing.pdf)
 
 
+
+Jan. 19, 2021
+
+* [Brainiac. Psychology Witchcraft in Marketing](https://kickstartsidehustle.com/brainiac/?ref=producthunt#tve-jump-1764a6cf7dd)
+
 Aug. 18, 2020
 * [App stores, trust and anti-trust](https://www.ben-evans.com/benedictevans/2020/8/18/app-stores)
 

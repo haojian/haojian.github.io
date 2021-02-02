@@ -8,7 +8,10 @@ Research talks
 #### Inspiring research talks 
 
 
+David Kohlbrenner: [Building trusted systems on top of leaky abstractions](https://www.youtube.com/watch?t=240&v=BcPYERU1qug&feature=youtu.be)
 
+<pre>
+</pre>
 
 
 Meghan Clark: [Devices and Data and Agents, Oh My: How Smart Home Abstractions Affect End-User Mental Models](http://meghanclark.us/content/clark_abstractions_ubicomp17.pptx)
