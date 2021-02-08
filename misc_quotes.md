@@ -1,6 +1,18 @@
 Quotes
 ==============
 
+```
+Writing is critical -- and this is ironic because engineers are the worst trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it's as polished as you can think of.
+[De-mystifying Good Research and Good Papers](https://sites.google.com/site/chanpaulwang/useful-links/advice-1/de-mystifyinggoodresearchandgoodpapers)
+```
+
+
+
+```
+There are three other categories of beginning researchers who tend to have better than average prospects of success. There are people who ...  (c) finished first degrees, went out and worked for a while, and decided to come back to learn how to do research, so that they could be in charge. ... those in category (c) have made a big sacrifice: that alone makes them highly motivated.
+[Terence’s Stuff: Why do we do research?](https://imstat.org/2015/02/15/terences-stuff-why-do-we-do-research/)
+```
+
 
 ```
 Be who you needed when you were younger. 
