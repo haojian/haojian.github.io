@@ -7,6 +7,10 @@ Research talks
 
 #### Inspiring research talks 
 
+Amit Levy: [Closing the loop on secure system design](https://www.youtube.com/watch?v=3s23eOYUHAA)
+<pre>Building systems that empower programmers without sacrificing security. 1. Standard Secure System Approach. 2. Extensible system approach. 3. Designing the right API.</pre>
+
+
 
 David Kohlbrenner: [Building trusted systems on top of leaky abstractions](https://www.youtube.com/watch?t=240&v=BcPYERU1qug&feature=youtu.be)
 
