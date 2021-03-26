@@ -7,6 +7,14 @@ Research talks
 
 #### Inspiring research talks 
 
+
+
+
+Jennifer Rexford: []()
+<pre>OpenFlow makes the control plane programmable, since the interface to the data plane is standard and open. 
+Don't fight what you can't change.</pre>
+
+
 Amit Levy: [Closing the loop on secure system design](https://www.youtube.com/watch?v=3s23eOYUHAA)
 <pre>Building systems that empower programmers without sacrificing security. 1. Standard Secure System Approach. 2. Extensible system approach. 3. Designing the right API.</pre>
 
@@ -117,3 +125,6 @@ Aditya Vashistha: [Social Computing for Social Good in Low-Resource Environments
 
 
 Elena L. Glassman: [Clustering and Visualizing Solution Variation in Massive Programming Classes](https://www.youtube.com/watch?v=Pt-DMk1YRJ4)
+
+
+Aayush Bansal: [Unsupervised Learning of the 4D Audio-Visual World from Sparse Unconstrained Real-World Samples](https://www.youtube.com/watch?v=JCOgRSzbucY)
