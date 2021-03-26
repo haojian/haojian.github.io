@@ -10,3 +10,8 @@
     - Traditional interviews ask participants to speculate on two things: (1) the imagined future situations and (2) how tech modify them. This is very challenging for end users.  Instead, speed dating creates scenarios that fall on both sides of the boundaries (i.e., situation and users’ behavior)
     - Present multiple ideas to end users so they can critique and compare. 
     - Focuses on the need but not the implementation/technology.
+
+
+Related readings
+
+- [The Discipline of Machine Learning by Tom Mitchell](http://www.cs.cmu.edu/~tom//pubs/MachineLearning.pdf)
