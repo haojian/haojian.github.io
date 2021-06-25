@@ -1,6 +1,9 @@
 backend
 ====================
 
+**Blockchain**
+
+- Three layers: distributed ledger database, consensus, smart contracts. [blockchains for enterprise usages](https://youtu.be/Zyv8OXyAdVk?t=500)
 
 **Database**
 

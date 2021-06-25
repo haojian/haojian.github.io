@@ -102,7 +102,7 @@ Amy Ko: [Asking and answering questions about the causes of software behaviors](
 Debugging would be faster if developers worked backwards from well-understood failure to cause, relying on dynamic dependencies precisely gathered by a tool. 
 </pre>
 
-Robert C. Miller: [Lightweight Structure in Text](http://www.cs.cmu.edu/~rcm/papers/thesis/)
+Robert C. Miller: [Lightweight Structure in Text](http://www.cs.cmu.edu/~rcm/papers/thesis/) [proposal doc](http://www.cs.cmu.edu/~rcm/papers/proposal/proposal.html)
 <pre>
 Lightweight structure (model, library, algebra) enables efficient composition and reuse of structure abstractions defined by various kinds of patterns and parsers, bringing improvements to pattern
 matching, text processing, web automation, repetitive text editing, inference of patterns from examples, and error detection.

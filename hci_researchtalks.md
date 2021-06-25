@@ -9,8 +9,40 @@ Research talks
 
 
 
+Joe Hellerstein: [A Data-Centric Lens on Cloud Programming and Serverless Computing](https://www.youtube.com/watch?v=cRxa-PeUk6w)
+<pre>
+Major shifts in computing platforms are typically accompanied by new programming models. 
 
-Jennifer Rexford: []()
+16:05. 
+The first principle of susccessful scalability is to (1) batter the consistency mechanisms down to a minimum, (2) move them off the critical path, (3) hide them in a rarely visited corner of the system, and then (4) make it as hard as possible for application developers to get permission to use them. James Hamilton. 
+</pre>
+
+
+Joe Hellerstein: [We Lose - HPTS 2001](https://dsf.berkeley.edu/jmh/talks/hpts2001-we-lose.pdf)
+<pre>
+more like query algebra than SQL
+Dataflow diagrams or “pipe” scripting
+Maybe ubiquitous computing/sensornet QP?
+</pre>
+
+David Brin: [Futurist Transparent Society](https://www.youtube.com/watch?v=bi7U6oD38Po&t=285s)
+<pre>
+The society has three levels of interactions: Formal/hierachical institutions (e.g., FBI, CIA), arena-markets for creative competition (e.g., democracy, science, startup), the people. 
+=> hierachical institutions is necessary. 
+=> Transparent society will destory arena-markets. society => feudalism
+
+
+anticipation v.s resilience 
+
+A good society mechanism, at its essence, is to ritualize regulated form of combat that minimizes the blood and waste on the floor, but maximizes rewards to those who actually deliver a better product and service. 
+
+A seizure and distribution of over one third of the land in the colonies & an utter ban of primogeniture. You could not for 100 years leave all of your belongings to a single child, which handles the oligarchy problem. 
+
+Over-specialization. => Knowledge acceleration through Google => Google becomes a verb and noun. => shallow minded.
+</pre>
+
+
+Jennifer Rexford: [Networks Capable of Change](https://www.youtube.com/watch?v=FfYN94K5iCo)
 <pre>OpenFlow makes the control plane programmable, since the interface to the data plane is standard and open. 
 Don't fight what you can't change.</pre>
 
