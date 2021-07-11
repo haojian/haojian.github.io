@@ -1,6 +1,14 @@
 Quotes
 ==============
 
+
+```
+Science should adopt a methodology based on falsifiability, because no number of experiments can ever prove a theory, but a reproducible experiment or observation can refute one. 
+
+- The Logic of Scientific Discovery 
+```
+
+
 ```
 Writing is critical -- and this is ironic because engineers are the worst trained writers among all disciplines in a university. You need to discipline yourself: leave time for writing, think deeply about writing, and write it over and over again till it's as polished as you can think of.
 [De-mystifying Good Research and Good Papers](https://sites.google.com/site/chanpaulwang/useful-links/advice-1/de-mystifyinggoodresearchandgoodpapers)
