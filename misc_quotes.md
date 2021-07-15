@@ -3,6 +3,13 @@ Quotes
 
 
 ```
+the Ph.D. is the beginning, not the culmination, of your career. Don’t worry about making it your magnum opus. Get out sooner, rather than later.
+
+["So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
+```
+
+
+```
 Science should adopt a methodology based on falsifiability, because no number of experiments can ever prove a theory, but a reproducible experiment or observation can refute one. 
 
 - The Logic of Scientific Discovery 
