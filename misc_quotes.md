@@ -1,6 +1,14 @@
 Quotes
 ==============
 
+```
+What important truth do very few people agree with you on?
+
+A start-up is the largest group of people that you can convince of a plan to build a different future.
+
+- Zero to one. Peter Thiel
+```
+
 
 ```
 the Ph.D. is the beginning, not the culmination, of your career. Don’t worry about making it your magnum opus. Get out sooner, rather than later.
