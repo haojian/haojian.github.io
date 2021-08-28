@@ -1,9 +1,14 @@
-### Papers shaped my understanding of privacy.¶
+### Papers shaped my understanding of privacy.
 
 
-#### What’s privacy? Why is privacy hard to protect?
+#### What’s privacy? 
 
 - [A Taxonomy of Privacy by Daniel J. Solove](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf)
+- Privacy v.s. Security. 
+    - A user's bank account is hacked, the hacker takes the user's money. 
+    - A user's friend knows the password and logs into the user's bank account to check the spending history. 
+    - The bank sells users' data to a third-party agency; the agency uses the user's shopping history to recommend something to that user, which may leverage the users' vulnerability. 
+
 - [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
 - [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
 
@@ -14,10 +19,7 @@
 - [Altman's Privacy regulation theory](https://en.wikipedia.org/wiki/Privacy_regulation_theory)
 - [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
 
-- Privacy v.s. Security
-    - A user's bank account is hacked, the hacker takes the user's money. 
-    - A user's friend knows the password and logs into the user's bank account to check the spending history. 
-    - The bank sells users' data to a third party agency; the agency uses the user's shopping history to recommend something to that user, which may leverage the users' vulnerability. 
+
 
 - [Information privacy](https://www.cnbc.com/2019/02/13/equifax-mystery-where-is-the-data.html): always copy rarely cut. 
 
@@ -95,7 +97,7 @@ alleged that Google used the information of consumers who signed up for Gmail to
 - [we can extrapolate the $47/year number to estimate the value of an average consumer’s personal data to the broader digital advertising industry](https://medium.com/wibson/how-much-is-your-data-worth-at-least-240-per-year-likely-much-more-984e250c2ffa)
 
 
-###  Misc
+###  Random snippets from haojian.
 
 
 
@@ -108,6 +110,18 @@ Privacy is essentially a lose-lose game because of trust issues. On the one hand
 
 Feb. 01, 2021 - Haojian when working on Peekaboo.
 ```
+
+```
+The market of privacy lemons. 
+
+Today's tension between developers and users resembles that between dealers and users in the used-car market. 
+
+Users cannot differentiate developers with good privacy and those with bad privacy, so they treat them equally. Unfortunately, this pushes even well-intentioned developers to harness users' information. 
+
+Similar to the used car market, there also exist many variations. For example, you may find an honest salesman everybody trusts. Such a dealer in the privacy market can be Dock Duck Go. What breaks these types of things is that protecting privacy is nearly impossible. Even if a user tries to do something to protect privacy, the information may leak from other unknown vendors. 
+
+```
+
 
 - 如果重要的个人利益可以放弃，那么必然会导致强者对于弱者的剥削。 
     - [我们的身体是否属于我们自己。](https://www.zhihu.com/question/383882573)

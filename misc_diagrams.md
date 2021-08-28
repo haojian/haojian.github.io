@@ -2,6 +2,10 @@
 
 ----
 
+Aug. 28, 2021
+
+<img src="photos/diagrams/comic-closure.png" width="800px">
+
 May. 9, 2020
 
 <img src="photos/diagrams/designandalchemy.png" width="400px">
