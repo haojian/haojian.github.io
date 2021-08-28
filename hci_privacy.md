@@ -10,32 +10,15 @@
             Society is fraught with conflict and friction. Individuals, institutions, and governments can all engage in activities that have problematic effects on the lives of others. 
         ```
 - [The Right to Privacy (1890)](https://archive.org/details/jstor-1321160/page/n1/mode/2up)
-    - This 1890 paper is published before the information age. It helps understand 
-- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
-- ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+    - This 1890 paper is published before the information age. But it is sort of a First Principle for privacy to me. 
 - [Altman's Privacy regulation theory](https://en.wikipedia.org/wiki/Privacy_regulation_theory)
+    - This is also a theory before the information age. But the arguments remain valid. 
+- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
-- Privacy v.s. Security. 
+- Privacy v.s. Security. This is the example I often use to explain privacy. 
     - A user's bank account is hacked, the hacker takes the user's money. 
     - A user's friend knows the password and logs into the user's bank account to check the spending history. 
     - The bank sells users' data to a third-party agency; the agency uses the user's shopping history to recommend something to that user, which may leverage the users' vulnerability. 
-
-#### Frameworks 
-
-- [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
-- [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
-- [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
-
-
-#### Privacy 101
-
-
-
-- [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
-
-
-
-- [Information privacy](https://www.cnbc.com/2019/02/13/equifax-mystery-where-is-the-data.html): always copy rarely cut. 
 
 
 
@@ -43,39 +26,61 @@
 
 - Why privacy is not important?
     - [Example argument: I don't care ](https://youtu.be/iEEayzR_Xq0?t=3m53s) 
+    - [There are bigger things to worry about.](https://www.reddit.com/r/technology/comments/a0ngtx/people_who_buy_smart_speakers_have_given_up_on/)
+
+- ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 
 - [The Hidden Persuaders](https://www.amazon.com/Hidden-Persuaders-Vance-Packard/dp/B000GRRRZS/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
-#### Why privacy is not important
 
-- [There are bigger things to worry about.](https://www.reddit.com/r/technology/comments/a0ngtx/people_who_buy_smart_speakers_have_given_up_on/)
+#### Frameworks 
 
-#### UbiComp/mobile privacy.
+- [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
+
+- [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
+
+- [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
+
+
+
+#### UbiComp/mobile/hci privacy.
 
 - [An Architecture for Privacy-Sensitive Ubiquitous Computing by Jason Hong](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
 
 - [A Privacy Awareness System for Ubiquitous Computing Environments by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647988.741491)
+
 - [Apex: extending Android permission model and enforcement with user-defined runtime constraints](https://dl.acm.org/doi/abs/10.1145/1755688.1755732)
+
 - [Inference Attacks on Location Tracks - John Krumm](https://www.microsoft.com/en-us/research/publication/inference-attacks-location-tracks/)
+
+- [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
 
 #### Literature reviews.
 
 - [End-user privacy in human-computer interaction](https://drive.google.com/file/d/1Wp_6r3vG1qNti91wogqdGHC2IMHLkRy6/view?usp=sharing)
+
 - [Machine Learning with Adversaries](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec10/10_adversarial_ml.pdf)
+
 - [The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
-#### Privacy engineering
+- Reading list from Jason. [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
+
+
+#### How do policy makers view and handle privacy?
+
+- [Big Data: A Report on Algorithmic Systems, Opportunity, and Civil Rights (from obama white house)](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/2016_0504_data_discrimination.pdf)
+    - Lots of interesting and realistic case studies.
+
+- [BIG DATA: SEIZING OPPORTUNITIES, PRESERVING VALUES (from obama white house)](https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf)
+    - This 85-page document shows me the privacy world outside of the typical HCI research papers. 
 
 - [The challenges of privacy engineering](https://blog.xot.nl/2017/08/02/the-challenges-of-privacy-engineering/)
     - Most PETs focus on data minimisation or unlinkability, aiming to unconditionally protect the privacy of the user. The underlying threat model is based on not trusting anyone (government or businesses) with our personal data. This threat model is not always appropriate, and may be too strict to achieve reasonable solutions in practice.
-    - a pretty good article. 
-
 
 - [NISTIR 8062: Privacy Risk Management for Federal Information Systems](https://csrc.nist.gov/csrc/media/publications/nistir/8062/draft/documents/nistir_8062_draft.pdf)
     - The appendix of the draft version is informative.
     - Check appendix D
-
 
 - [NIST Privacy Engineering: Risk Model and Assessment - Slides](https://csrc.nist.gov/csrc/media/presentations/update-on-nist-privacy-engineering-program/images-media/nl-en-priveng-ispab.pdf)
     - Security Risk Model: Likelihood | Vulnerability | Threat | Impact
@@ -86,11 +91,7 @@
 - [States in Which Definition of “Personal Information” Is Broader Than the General Definition](https://www.bakerlaw.com/files/uploads/documents/data%20breach%20documents/data_breach_charts.pdf)
 
 
-
-#### Other privacy reading lists
-- Reading list from Jason. [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
-
-
+#### How do industrial people view and handle privacy?
 
 
 
@@ -107,13 +108,21 @@ alleged that Google used the information of consumers who signed up for Gmail to
 ### Data ethics
 
 - [Values and Ethics in Human-Computer Interaction](https://www.nowpublishers.com/article/Details/HCI-073)
+
 - [The corporate cultivation of digital resignation](https://journals.sagepub.com/doi/full/10.1177/1461444819833331?journalCode=nmsa)
+
 - [we can extrapolate the $47/year number to estimate the value of an average consumer’s personal data to the broader digital advertising industry](https://medium.com/wibson/how-much-is-your-data-worth-at-least-240-per-year-likely-much-more-984e250c2ffa)
 
 
-###  Random snippets from haojian.
 
 
+#### Insights
+
+
+- [Information privacy](https://www.cnbc.com/2019/02/13/equifax-mystery-where-is-the-data.html): always copy rarely cut. 
+
+- From Haojian:
+    - The concept of Privacy is vague, covering many types of problems, such as undesired advertising, data misuse, vulnerable population protection, price discrimination, and intimate partner violence. Many of these problems involve different trade-offs, so we should divide and conquer. 
 
 - Human test definition in IRB: would the experiment be useful if the data were generated by a random process and not by a human.
 
