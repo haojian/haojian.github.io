@@ -93,7 +93,8 @@
 
 #### How do industrial people view and handle privacy?
 
-
+- [Ads, privacy and confusion
+](https://www.ben-evans.com/benedictevans/2021/8/27/understanding-privacy)
 
 ### Stories
 
