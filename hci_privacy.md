@@ -1,22 +1,36 @@
-### Papers shaped my understanding of privacy.
+### Papers & books shaped my understanding of privacy.
 
 
 #### What’s privacy? 
 
-- [A Taxonomy of Privacy by Daniel J. Solove](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf)
+- [A Taxonomy of Privacy by Daniel J. Solove](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=667622)
+    - This paper argues that privacy is far too vague a concept to guide adjudication and lawmaking. Instead, Solove enumerates 16 activities that invade privacy and organizes them into four sequential groups: (1) information collection, (2) information processing, (3) information dissemination, and (4) invasion. While these 16 activities are not likely to be comprehensive, it allows us to have a concrete basis to discuss privacy. 
+    - One of my favorite privacy argument is also from this paper: 
+        ```
+            Society is fraught with conflict and friction. Individuals, institutions, and governments can all engage in activities that have problematic effects on the lives of others. 
+        ```
+- [The Right to Privacy (1890)](https://archive.org/details/jstor-1321160/page/n1/mode/2up)
+    - This 1890 paper is published before the information age. It helps understand 
+- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
+- ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+- [Altman's Privacy regulation theory](https://en.wikipedia.org/wiki/Privacy_regulation_theory)
+
 - Privacy v.s. Security. 
     - A user's bank account is hacked, the hacker takes the user's money. 
     - A user's friend knows the password and logs into the user's bank account to check the spending history. 
     - The bank sells users' data to a third-party agency; the agency uses the user's shopping history to recommend something to that user, which may leverage the users' vulnerability. 
 
+#### Frameworks 
+
 - [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
 - [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
+- [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
 
 
 #### Privacy 101
 
-- [The Right to Privacy (article)](https://en.wikipedia.org/wiki/The_Right_to_Privacy_(article))
-- [Altman's Privacy regulation theory](https://en.wikipedia.org/wiki/Privacy_regulation_theory)
+
+
 - [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
 
 
@@ -40,7 +54,7 @@
 #### UbiComp/mobile privacy.
 
 - [An Architecture for Privacy-Sensitive Ubiquitous Computing by Jason Hong](https://dl.acm.org/doi/pdf/10.1145/990064.990087)
-- [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
+
 - [A Privacy Awareness System for Ubiquitous Computing Environments by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647988.741491)
 - [Apex: extending Android permission model and enforcement with user-defined runtime constraints](https://dl.acm.org/doi/abs/10.1145/1755688.1755732)
 - [Inference Attacks on Location Tracks - John Krumm](https://www.microsoft.com/en-us/research/publication/inference-attacks-location-tracks/)
