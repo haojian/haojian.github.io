@@ -2,6 +2,12 @@ Quotes
 ==============
 
 ```
+诺贝尔纪念馆大条幅上写着著名的科研三阶段，我都经历过：第一阶段，有人认为你的科研原理是错误的。第二阶段，有人认为你所做的科研是早已经被人发现过的。到第三个阶段，他们认为你从开始就肯定会成功。
+```
+
+
+
+```
 What important truth do very few people agree with you on?
 
 A start-up is the largest group of people that you can convince of a plan to build a different future.
