@@ -135,6 +135,9 @@ Privacy is essentially a lose-lose game because of trust issues. On the one hand
 Feb. 01, 2021 - Haojian when working on Peekaboo.
 ```
 
+- [what ubicomp domain should we study more? from Jon Froehlich](https://twitter.com/jonfroehlich/status/1420753628659286024) 
+
+
 ```
 The market of privacy lemons. 
 
