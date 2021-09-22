@@ -2,9 +2,11 @@ Quotes
 ==============
 
 ```
-Ubicomp is about the experience rather than the computers. Learned from Beth  @ Gatech. 
+Beth  @ Gatech. 
 (1) Sharing the infrastructure has never been true. Everything is still mine, mine, mine.
 (2) Ubicomp is not just about making devices invisible.
+
+Take away: Ubicomp is about making the experience invisible rather than just the computers. 
 ```
 
 
