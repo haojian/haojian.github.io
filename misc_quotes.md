@@ -1,6 +1,13 @@
 Quotes
 ==============
 
+
+```
+靡不有初，鲜克有终. 
+All are [good] at first, But few prove themselves to be so at the last.
+```
+
+
 ```
 Beth  @ Gatech. 
 (1) Sharing the infrastructure has never been true. Everything is still mine, mine, mine.
