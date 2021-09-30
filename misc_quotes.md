@@ -2,6 +2,10 @@ Quotes
 ==============
 
 ```
+一等心思,二等人,三等事.
+```
+
+```
 Gibson emphatically said he had never read or listened to the tech leaders talk about emerging technologies.
 "But," he said, "give me a room full of either artists or criminals talking about what they might be able to do with an emergent technology and I've got it, I've made my lunch."
 [Artists and criminals: on the cutting edge of tech](https://www.npr.org/sections/alltechconsidered/2018/02/20/585535355/artists-and-criminals-on-the-cutting-edge-of-tech)
