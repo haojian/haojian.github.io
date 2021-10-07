@@ -1,6 +1,11 @@
 Quotes
 ==============
 
+```
+Journalism is not just talking about the fact. Journalism is about understand what those facts mean. So do Science. 
+[Un-Burying The Lead - Creating Slides That Stick](https://www.dojolabs.net/blog/2019/8/1/un-burying-the-lead)
+```
+
 
 ```
 David Pujol: When I first applied, my goal was to impress the reviewers. I tried — in my opinion, unsuccessfully — to make my research sound like some grand project that would change how we view data. In reality, it wasn’t that. I ended up writing a confusing, unfocused, and overly technical piece that failed to convey the information that I wanted it to.
