@@ -1,6 +1,15 @@
 Quotes
 ==============
 
+
+```
+David Pujol: When I first applied, my goal was to impress the reviewers. I tried — in my opinion, unsuccessfully — to make my research sound like some grand project that would change how we view data. In reality, it wasn’t that. I ended up writing a confusing, unfocused, and overly technical piece that failed to convey the information that I wanted it to.
+
+I eventually learned that most projects don’t need to be major, paradigm-changing work. In fact, most are small steps in the right direction.
+[A nice reflection on research statement](https://research.fb.com/blog/2020/09/applying-twice-how-facebook-fellow-david-pujol-adjusted-his-application-for-success/)
+```
+
+
 ```
 一等心思,二等人,三等事.
 ```
