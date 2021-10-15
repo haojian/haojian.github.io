@@ -2,6 +2,11 @@ Quotes
 ==============
 
 ```
+academic life is a mad hazard.
+```
+
+
+```
 Journalism is not just talking about the fact. Journalism is about understand what those facts mean. So do Science. 
 [Un-Burying The Lead - Creating Slides That Stick](https://www.dojolabs.net/blog/2019/8/1/un-burying-the-lead)
 ```

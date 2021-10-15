@@ -56,6 +56,8 @@
 
 - [Unpacking “Privacy” for a Networked World](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6421&rep=rep1&type=pdf)
 
+- [Hippocratic Databases](http://www.vldb.org/conf/2002/S05P02.pdf)
+
 #### Literature reviews.
 
 - [End-user privacy in human-computer interaction](https://drive.google.com/file/d/1Wp_6r3vG1qNti91wogqdGHC2IMHLkRy6/view?usp=sharing)
