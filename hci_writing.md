@@ -18,3 +18,8 @@
 ## Research statement
 
 - [Writing a research statement by Michael Ernst (UW-CSE)](https://homes.cs.washington.edu/~mernst/advice/research-statement.html)
+
+
+## Writing a rebuttal
+
+- [Advice on writing an author response](http://www.pl-enthusiast.net/2014/09/17/advice-writing-author-response/)

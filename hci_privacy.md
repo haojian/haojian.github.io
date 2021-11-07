@@ -36,6 +36,8 @@
 
 #### Frameworks 
 
+- [The future computing utility](https://www.nationalaffairs.com/storage/app/uploads/public/58e/1a4/a48/58e1a4a480918610343255.pdf) It is a 1967 paper, but still relevant. 
+
 - [Approximate Information Flows: Socially-Based Modeling of Privacy in Ubiquitous Computing](http://hstemmer.de/Privacy.pdf)
 
 - [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)
