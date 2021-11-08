@@ -45,6 +45,9 @@
 - [Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647987.741336)
 
 
+- Spiros Simitis [Reviewing Privacy in an Information Society](https://www.jstor.org/stable/3312079?seq=1#metadata_info_tab_contents)
+    - ```No progress can be achieved, as long as privacy protection is “more or less equated with an individual’s right to decide when and which data are to be accessible.``` 
+
 
 #### UbiComp/mobile/hci privacy.
 
