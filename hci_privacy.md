@@ -15,6 +15,8 @@
     - This is also a theory before the information age. But the arguments remain valid. 
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
+- ['Fear of One Company Knowing Too Much About Us' and Other Privacy Concerns](https://www.vox.com/2015/6/23/11563790/classifying-privacy-concerns)
+
 - Privacy v.s. Security. This is the example I often use to explain privacy. 
     - A user's bank account is hacked, the hacker takes the user's money. 
     - A user's friend knows the password and logs into the user's bank account to check the spending history. 
