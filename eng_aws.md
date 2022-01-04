@@ -2,9 +2,9 @@ AWS
 ============================
 
 
-## Common S3 cmd
-
-- [toolkit](https://github.com/s3tools/s3cmd)
+- [named profiles](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
+	- credentials are stored at `~/.aws/credentials`
+	- switch between profiles. `export AWS_PROFILE=user1`
 
 
 ## DOCKER
@@ -114,6 +114,8 @@ AWS
 	
 	
 ## Google Cloud
+
+
 
 #### Google Cloud Speech Recognition
 

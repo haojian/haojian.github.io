@@ -57,6 +57,9 @@
 
 - [A Privacy Awareness System for Ubiquitous Computing Environments by Marc Langheinrich](https://dl.acm.org/doi/10.5555/647988.741491)
 
+- [PRIVACY IN UBIQUITOUS COMPUTING](https://www.inf.usi.ch/faculty/langheinrich/articles/papers/2009-ucbook-privacy.pdf) 
+    - a chapter in John Krumm's book: "Ubiquitous Computing"
+
 - [Apex: extending Android permission model and enforcement with user-defined runtime constraints](https://dl.acm.org/doi/abs/10.1145/1755688.1755732)
 
 - [Inference Attacks on Location Tracks - John Krumm](https://www.microsoft.com/en-us/research/publication/inference-attacks-location-tracks/)
