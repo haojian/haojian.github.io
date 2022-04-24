@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+We have all these tools that enable us to create in ways that are more accessible that are cheaper that are more fair that's what excites me the most.
+- [Casey Neistat's Guide to Filmmaking](https://www.youtube.com/watch?v=nLSUrTxquyE) 6:48.
+```
+
+
+
+```
 academic life is a mad hazard.
 ```
 
