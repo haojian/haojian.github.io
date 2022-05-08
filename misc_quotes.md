@@ -2,10 +2,16 @@ Quotes
 ==============
 
 ```
+“You ever see a dog, man, when he’s walkin’ across a bridge? Well, that dog, he doesn’t look left and he doesn’t look right. He keeps his head down, lookin’ at his paws makin’ a straight line, all the way. And the only thing he’s thinking about, the whole time, is gettin’ to the other side of that bridge.”
+
+- http://www.thehistorialist.com/2019/10/shoedog-definition-of.html
+```
+
+
+```
 We have all these tools that enable us to create in ways that are more accessible that are cheaper that are more fair that's what excites me the most.
 - [Casey Neistat's Guide to Filmmaking](https://www.youtube.com/watch?v=nLSUrTxquyE) 6:48.
 ```
-
 
 
 ```
