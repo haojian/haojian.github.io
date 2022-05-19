@@ -1,6 +1,20 @@
 Latex 
 ==============
 
+## Arxiv related
+
+- Arxiv cannot generate the PDF files from the eps file. 
+    ```
+        Download the source zip from overleaf.
+        unzip it.
+        cd to the figure folder.
+        Run the following command: for f in *.eps; do epstopdf "$f"; done 
+        zip the whole folder and upload it. 
+    ```
+
+- Arxiv cannot find .bbl file.
+    - open the file in the local Tex client and generate it locally.
+
 
 ## Inserting figures
 - [Positioning of Figures](https://www.sharelatex.com/learn/Positioning_of_Figures)
@@ -28,3 +42,5 @@ Latex
 			\captionof{figure}{sfsefsfese}
 		\end{strip}
 		```
+
+
