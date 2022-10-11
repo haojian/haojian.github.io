@@ -44,6 +44,21 @@ backend
 	Check this site for more articles like this: https://sites.google.com/site/nitinpasumarthy/blog/installingpostgresonmac
 	```
 
+	```
+	To restart postgresql after an upgrade:
+  	brew services restart postgresql
+	Or, if you don't want/need a background service you can just run:
+  	/usr/local/opt/postgresql/bin/postgres -D /usr/local/var/postgres
+	```
+
+	```
+	# if install through brew, the default superuser name is the machine user name. 
+	psql postgres
+	sudo -u machineusername createuser dpppt
+	```
+	[instructions](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91)
+	
+
 ** Multiple machine deployment **
 
 - [Pythonic remote execution](http://www.fabfile.org/)

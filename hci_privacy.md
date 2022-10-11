@@ -78,6 +78,8 @@
 
 - Reading list from Jason. [HCI and Privacy Reading Seminar Syllabus Spring 2012](https://docs.google.com/spreadsheets/d/1KTlev3mmOTBQhlO8XBXe2z8bCoBKSbqweIhkRFrZUxU/edit?hl=en_US&pli=1&hl=en_US&pli=1#gid=0)
 
+- [Best differential privacy tutorial](https://medium.com/@shaistha24/differential-privacy-definition-bbd638106242)
+
 
 #### How do policy makers view and handle privacy?
 
