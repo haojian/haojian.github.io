@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+“You can’t convince someone of something if their salary depends on them not believing it.”
+
+- [Hackernews discussion](https://news.ycombinator.com/item?id=35470905)
+```
+
+
+```
 “You ever see a dog, man, when he’s walkin’ across a bridge? Well, that dog, he doesn’t look left and he doesn’t look right. He keeps his head down, lookin’ at his paws makin’ a straight line, all the way. And the only thing he’s thinking about, the whole time, is gettin’ to the other side of that bridge.”
 
 - http://www.thehistorialist.com/2019/10/shoedog-definition-of.html
