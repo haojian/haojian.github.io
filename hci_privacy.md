@@ -83,6 +83,13 @@
 
 #### How do policy makers view and handle privacy?
 
+- [Co-regulation in EU personal data protection: the case of technical standards and the privacy by design standardisation 'mandate'](https://ejlt.org/index.php/ejlt/article/view/545)
+    - `'Law is necessary, but not sufficient. It needs to be supplemented by other policy instruments, fashioned and implemented within a policy network' (Bennet, Mulligan, 2002). The authors propose the adoption of a policy 'toolbox' comprising of codes of conduct, privacy impact assessments, privacy standards, privacy seals and other instruments to supplement the law.`
+
+
+- [Playing fair in the Privacy Sandbox: competition, privacy, and interoperability standards](https://www.mnot.net/papers/21-02-sandbox.pdf)
+
+
 - [Big Data: A Report on Algorithmic Systems, Opportunity, and Civil Rights (from obama white house)](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/2016_0504_data_discrimination.pdf)
     - Lots of interesting and realistic case studies.
 

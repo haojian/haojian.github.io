@@ -1,6 +1,13 @@
 Quotes
 ==============
 
+
+```
+FIPs are not self-executing. Rather, privacy by design requires the translation of FIPs into engineering and usability principles and practices. 
+
+- Privacy by Design: A counterfactual analysis of Google and Facebook Privacy Incidents [https://heinonline.org/HOL/P?h=hein.journals/berktech28&i=1367]
+```
+
 ```
 “You can’t convince someone of something if their salary depends on them not believing it.”
 
