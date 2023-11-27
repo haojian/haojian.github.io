@@ -1,6 +1,13 @@
 Quotes
 ==============
 
+```
+The secret to winning any game lies in not trying too hard.
+
+- [The Inner Game of Tennis](https://www.gatesnotes.com/The-Inner-Game-of-Tennis)
+```
+
+
 
 ```
 FIPs are not self-executing. Rather, privacy by design requires the translation of FIPs into engineering and usability principles and practices. 
