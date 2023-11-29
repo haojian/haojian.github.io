@@ -1,10 +1,19 @@
 Quotes
 ==============
 
+
+```
+Think of a PhD professional, her desk surrounded by a little potential energy well of lower entropy relative to the universe, the air cooler, even brisk. Her job is to reduce entropy for others as well by inventing methods, algorithms, and theories usable by them to create order out of chaos. I realize this definition is a bit aspirational, but I still defend the idea of the professional and the notion that the thesis serves as the blunt instrument of this transformation—or of selection.
+
+- [The PhD Thesis Deconstructed, Stu Card](https://hci.ucsd.edu/220/StuCardThesisDeconstructed.pdf)
+
+```
+
+
 ```
 The secret to winning any game lies in not trying too hard.
 
-- [The Inner Game of Tennis](https://www.gatesnotes.com/The-Inner-Game-of-Tennis)
+- [The Inner Game of Tennis](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314)
 ```
 
 
