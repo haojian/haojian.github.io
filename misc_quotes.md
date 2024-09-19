@@ -3,6 +3,14 @@ Quotes
 
 
 ```
+Your ideas are like your children, and it's better to be famous than ignored.
+
+- [How to Speak, Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+```
+
+
+
+```
 Think of a PhD professional, her desk surrounded by a little potential energy well of lower entropy relative to the universe, the air cooler, even brisk. Her job is to reduce entropy for others as well by inventing methods, algorithms, and theories usable by them to create order out of chaos. I realize this definition is a bit aspirational, but I still defend the idea of the professional and the notion that the thesis serves as the blunt instrument of this transformation—or of selection.
 
 - [The PhD Thesis Deconstructed, Stu Card](https://hci.ucsd.edu/220/StuCardThesisDeconstructed.pdf)
