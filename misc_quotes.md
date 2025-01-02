@@ -1,6 +1,12 @@
 Quotes
 ==============
 
+```
+A computer architect must be a jack of all trades.
+
+- Onur Mutlu
+```
+
 
 ```
 Your ideas are like your children, and it's better to be famous than ignored.
