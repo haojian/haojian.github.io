@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+Beautiful things don't ask for attention.
+
+```
+
+
+
+```
 A computer architect must be a jack of all trades.
 
 - Onur Mutlu
