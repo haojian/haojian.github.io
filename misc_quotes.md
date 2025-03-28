@@ -2,6 +2,15 @@ Quotes
 ==============
 
 ```
+
+" I guess the sad truth is not everyone will accomplish something great. Some of us may just have to find meaning in the little moments that make up life."
+
+- [The Big Bang Theory (S8e10)](https://www.facebook.com/watch/?v=720375845475910)
+```
+
+
+
+```
 Beautiful things don't ask for attention.
 
 ```
