@@ -2,6 +2,27 @@ Quotes
 ==============
 
 ```
+When you want more, because you want to enjoy it. When you want less, it is because it is about work/transform. 
+Simplicity is about living life with more enjoyment and less pain. 
+
+[John Maeda - Designing for simplicity](https://www.ted.com/talks/john_maeda_designing_for_simplicity)
+```
+
+
+```
+久利之地勿去，是非之处勿往。 
+```
+
+```
+创业公司的文化，就是要用零预算方式把这个东西做起来，这才是我们唯一跟大公司竞争的优势。
+人生做重大决策时不能算账，那样的话格局会特别小。
+你要创造价值你必须赢。一个人如果不打胜仗，就无法创造很大价值。
+创业对老板的要求，就是找团队，定战略，带班子，总结一句话，就是找到人，把他带好。找不到人，你一定输在起跑线。
+一个团队也好，一个人也好，只有资源集中紧缺时，才能迸发出创造力。
+如何衡量自己是不是在真的风口上？极低成本获取大量具有忠诚度的用户。
+```
+
+```
 
 " I guess the sad truth is not everyone will accomplish something great. Some of us may just have to find meaning in the little moments that make up life."
 
