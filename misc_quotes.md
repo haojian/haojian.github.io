@@ -2,6 +2,13 @@ Quotes
 ==============
 
 ```
+When I first came to this office ten years ago, I wasn’t thinking about how many papers I would publish or how much money I would earn. I just hoped that every student would become more successful than I am and they would have the opportunity to walk into this office one day.
+
+- Gordon Wetzstein
+```
+
+
+```
 When you want more, because you want to enjoy it. When you want less, it is because it is about work/transform. 
 Simplicity is about living life with more enjoyment and less pain. 
 
